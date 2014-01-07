@@ -1,0 +1,6326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chart>
+   <license>DTARRLLM35ZO.945CWK-2XOI1X0-7L</license>
+   <axis_category shadow="low" prefix="" min="0" max="100" steps="5" decimals="0" size="13" color="ff0000" alpha="0" orientation="circular" />
+   <axis_ticks value_ticks="false" category_ticks="false" />
+   <axis_value shadow="low" show_min="false" min="0" max="160" steps="16" size="13" color="ffffff" alpha="75" prefix="" suffix="K" />
+   <!-- axis_value_label>
+		<string>0k</string>
+		<string>30k</string>
+		<string>60</string>
+		<string>90</string>
+		<string>120</string>
+	</axis_value_label -->
+   <axis_category_label>
+      <string>0k</string>
+      <string>20</string>
+      <string>40</string>
+      <string>60</string>
+      <string>80</string>
+      <string>100</string>
+   </axis_category_label>
+   <chart_border color="3333ff" bottom_thickness="1" left_thickness="1" top_thickness="0" right_thickness="1" />
+   <chart_data>
+      <row>
+         <null />
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+         <string>x</string>
+         <string>y</string>
+         <string>z</string>
+      </row>
+      <row>
+         <string>Giam San (61)</string>
+         <number label="">1.5</number>
+         <number>21.3</number>
+         <number tooltip="VNS 21.30 (-1.10   -4.90%) KL: 12,490">5</number>
+         <number label="">13.7</number>
+         <number>29.0</number>
+         <number tooltip="SSC 29 (-1.50   -4.90%) KL: 120">5</number>
+         <number label="">12.8</number>
+         <number>3.7</number>
+         <number tooltip="BSI 3.70 (-0.10   -2.60%) KL: 150">5</number>
+         <number label="">7</number>
+         <number>9.5</number>
+         <number tooltip="NKG 9.50 (-0.40   -4%) KL: 3,990">5</number>
+         <number label="">11.4</number>
+         <number>18.4</number>
+         <number tooltip="FCN 18.40 (-0.90   -4.70%) KL: 487,960">5</number>
+         <number label="">2.5</number>
+         <number>2.7</number>
+         <number tooltip="PXL 2.70 (-0.10   -3.60%) KL: 22,630">5</number>
+         <number label="">15</number>
+         <number>3.7</number>
+         <number tooltip="MCG 3.70 (-0.10   -2.60%) KL: 87,860">5</number>
+         <number label="">15.5</number>
+         <number>2.0</number>
+         <number tooltip="PTL 2 (-0.10   -4.80%) KL: 90,070">5</number>
+         <number label="">3.2</number>
+         <number>18.1</number>
+         <number tooltip="PDN 18.10 (-0.90   -4.70%) KL: 11,510">5</number>
+         <number label="">18.5</number>
+         <number>3.6</number>
+         <number tooltip="VGS 3.60 (-0.20   -5.30%) KL: 95,000">5</number>
+         <number label="">4.9</number>
+         <number>4.7</number>
+         <number tooltip="TMT 4.70 (-0.20   -4.10%) KL: 20,510">5</number>
+         <number label="">16.1</number>
+         <number>11.3</number>
+         <number tooltip="RDP 11.30 (-0.50   -4.20%) KL: 2,220">5</number>
+         <number label="">16.4</number>
+         <number>2.0</number>
+         <number tooltip="VST 2 (-0.10   -4.80%) KL: 6,700">5</number>
+         <number label="">14.7</number>
+         <number>3.8</number>
+         <number tooltip="VPH 3.80 (-0.10   -2.60%) KL: 17,280">5</number>
+         <number label="">3.5</number>
+         <number>4.4</number>
+         <number tooltip="ASP 4.40 (-0.20   -4.30%) KL: 106,290">5</number>
+         <number label="">13.4</number>
+         <number>6.7</number>
+         <number tooltip="CTI 6.70 (-0.30   -4.30%) KL: 20">5</number>
+         <number label="">1.4</number>
+         <number>3.6</number>
+         <number tooltip="SHI 3.60 (-0.10   -2.70%) KL: 10">5</number>
+         <number label="">10.7</number>
+         <number>4.7</number>
+         <number tooltip="PHT 4.70 (-0.20   -4.10%) KL: 10">5</number>
+         <number label="">16.4</number>
+         <number>6.2</number>
+         <number tooltip="GBS 6.20 (-0.40   -6.10%) KL: 4,700">5</number>
+         <number label="">3.1</number>
+         <number>2.2</number>
+         <number tooltip="VCR 2.20 (-0.10   -4.30%) KL: 9,200">5</number>
+         <number label="">13.8</number>
+         <number>3.9</number>
+         <number tooltip="PHH 3.90 (-0.20   -4.90%) KL: 10,600">5</number>
+         <number label="">14.9</number>
+         <number>3.5</number>
+         <number tooltip="MAFPF1 3.50 (-0.10   -2.80%) KL: 5,060">5</number>
+         <number label="">14.1</number>
+         <number>3.6</number>
+         <number tooltip="PXT 3.60 (-0.10   -2.70%) KL: 5,000">5</number>
+         <number label="">1.6</number>
+         <number>6.8</number>
+         <number tooltip="GTA 6.80 (-0.30   -4.20%) KL: 5,470">5</number>
+         <number label="">2.7</number>
+         <number>2.4</number>
+         <number tooltip="PVV 2.40 (-0.10   -4%) KL: 29,200">5</number>
+         <number label="">7.3</number>
+         <number>2.5</number>
+         <number tooltip="API 2.50 (-0.10   -3.80%) KL: 41,600">5</number>
+         <number label="">3.7</number>
+         <number>5.5</number>
+         <number tooltip="KSH 5.50 (-0.20   -3.50%) KL: 24,180">5</number>
+         <number label="">7.7</number>
+         <number>6.1</number>
+         <number tooltip="CNT 6.10 (-0.30   -4.70%) KL: 8,040">5</number>
+         <number label="">14.9</number>
+         <number>3.8</number>
+         <number tooltip="HVX 3.80 (-0.20   -5%) KL: 720">5</number>
+         <number label="">5.6</number>
+         <number>4.2</number>
+         <number tooltip="SDA 4.20 (-0.30   -6.70%) KL: 7,700">5</number>
+         <number label="">12</number>
+         <number>2.8</number>
+         <number tooltip="VNA 2.80 (-0.10   -3.40%) KL: 100">5</number>
+         <number label="">5.5</number>
+         <number>3.5</number>
+         <number tooltip="FBT 3.50 (-0.10   -2.80%) KL: 10">5</number>
+         <number label="">1.2</number>
+         <number>4.3</number>
+         <number tooltip="NVN 4.30 (-0.20   -4.40%) KL: 530">5</number>
+         <number label="">11.4</number>
+         <number>7.5</number>
+         <number tooltip="L62 7.50 (-0.50   -6.20%) KL: 500">5</number>
+         <number label="">4.7</number>
+         <number>3.8</number>
+         <number tooltip="HAX 3.80 (-0.10   -2.60%) KL: 9,110">5</number>
+         <number label="">2.3</number>
+         <number>3.8</number>
+         <number tooltip="VNI 3.80 (-0.10   -2.60%) KL: 540">5</number>
+         <number label="">13.3</number>
+         <number>3.2</number>
+         <number tooltip="SDP 3.20 (-0.20   -5.90%) KL: 11,900">5</number>
+         <number label="">14.2</number>
+         <number>2.4</number>
+         <number tooltip="PXA 2.40 (-0.10   -4%) KL: 15,800">5</number>
+         <number label="">13.7</number>
+         <number>3.0</number>
+         <number tooltip="MTG 3 (-0.10   -3.20%) KL: 14,420">5</number>
+         <number label="">15.9</number>
+         <number>0.9</number>
+         <number tooltip="PSG 0.90 (0   0%) KL: 83,200">5</number>
+         <number label="">12.2</number>
+         <number>5.8</number>
+         <number tooltip="DHL 5.80 (-0.40   -6.50%) KL: 3,700">5</number>
+         <number label="">12.7</number>
+         <number>2.2</number>
+         <number tooltip="APG 2.20 (-0.10   -4.30%) KL: 3,100">5</number>
+         <number label="">18.5</number>
+         <number>1.6</number>
+         <number tooltip="TAS 1.60 (-0.10   -5.90%) KL: 100">5</number>
+         <number label="">17.4</number>
+         <number>2.2</number>
+         <number tooltip="V15 2.20 (-0.10   -4.30%) KL: 22,300">5</number>
+         <number label="">2.2</number>
+         <number>4.5</number>
+         <number tooltip="LTC 4.50 (-0.30   -6.20%) KL: 10,300">5</number>
+         <number label="">16.1</number>
+         <number>2.7</number>
+         <number tooltip="KHB 2.70 (-0.10   -3.60%) KL: 37,000">5</number>
+         <number label="">1.1</number>
+         <number>3.3</number>
+         <number tooltip="LO5 3.30 (-0.20   -5.70%) KL: 100">5</number>
+         <number label="">5.6</number>
+         <number>8.6</number>
+         <number tooltip="DL1 8.60 (-0.60   -6.50%) KL: 100">5</number>
+         <number label="">16.4</number>
+         <number>9.4</number>
+         <number tooltip="DAE 9.40 (-0.70   -6.90%) KL: 100">5</number>
+         <number label="">10.5</number>
+         <number>4.8</number>
+         <number tooltip="BHT 4.80 (-0.30   -5.90%) KL: 1,200">5</number>
+         <number label="">17</number>
+         <number>1.1</number>
+         <number tooltip="GGG 1.10 (-0.10   -8.30%) KL: 7,100">5</number>
+         <number label="">12.3</number>
+         <number>3.7</number>
+         <number tooltip="NSN 3.70 (-0.20   -5.10%) KL: 10,000">5</number>
+         <number label="">15.3</number>
+         <number>0.9</number>
+         <number tooltip="DDM 0.90 (0   0%) KL: 4,090">5</number>
+         <number label="">17.2</number>
+         <number>5.8</number>
+         <number tooltip="HPS 5.80 (-0.40   -6.50%) KL: 3,300">5</number>
+         <number label="">18.4</number>
+         <number>1.5</number>
+         <number tooltip="SDY 1.50 (-0.10   -6.20%) KL: 2,400">5</number>
+         <number label="">1.2</number>
+         <number>2.0</number>
+         <number tooltip="VE1 2 (-0.10   -4.80%) KL: 10,000">5</number>
+         <number label="">1.8</number>
+         <number>2.0</number>
+         <number tooltip="SD8 2 (-0.10   -4.80%) KL: 200">5</number>
+         <number label="">5.4</number>
+         <number>2.5</number>
+         <number tooltip="VE8 2.50 (-0.10   -3.80%) KL: 500">5</number>
+         <number label="">1.2</number>
+         <number>0.0</number>
+         <number tooltip="SME 0 (0   0%) KL: 0">5</number>
+         <number label="">10.6</number>
+         <number>0.0</number>
+         <number tooltip="SDS 0 (0   0%) KL: 0">5</number>
+         <number label="">10.3</number>
+         <number>0.0</number>
+         <number tooltip="SD3 0 (0   0%) KL: 0">5</number>
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+      </row>
+      <row>
+         <string>Giam Gia (132)</string>
+         <number bevel="data" label="MSN">22.3</number>
+         <number>90.5</number>
+         <number tooltip="MSN 90.50 (-2   -2.20%) KL: 23,850">97.2531</number>
+         <number bevel="data" label="VCB">33</number>
+         <number>23.1</number>
+         <number tooltip="VCB 23.10 (-0.20   -0.90%) KL: 36,490">76.5445</number>
+         <number bevel="data" label="EIB">27.4</number>
+         <number>14.3</number>
+         <number tooltip="EIB 14.30 (-0.20   -1.40%) KL: 90,450">27.4061</number>
+         <number bevel="data" label="HAG">30.4</number>
+         <number>20.1</number>
+         <number tooltip="HAG 20.10 (-0.20   -1%) KL: 382,530">16.6878</number>
+         <number bevel="data" label="CTG">32.3</number>
+         <number>18.8</number>
+         <number tooltip="CTG 18.80 (-0.10   -0.50%) KL: 262,050">14.928</number>
+         <number bevel="data" label="HPG">33.5</number>
+         <number>18.1</number>
+         <number tooltip="HPG 18.10 (-0.60   -3.20%) KL: 27,400">9.9898</number>
+         <number bevel="data" label="KDC">28.9</number>
+         <number>39.9</number>
+         <number tooltip="KDC 39.90 (-0.60   -1.50%) KL: 209,450">8.2722</number>
+         <number bevel="data" label="SSI">34.3</number>
+         <number>14.7</number>
+         <number tooltip="SSI 14.70 (-0.20   -1.30%) KL: 535,970">8.0373</number>
+         <number bevel="data" label="DHG">29.4</number>
+         <number>66.0</number>
+         <number tooltip="DHG 66 (-1   -1.50%) KL: 860">6.7008</number>
+         <number bevel="data" label="PVF">22.4</number>
+         <number>7.0</number>
+         <number tooltip="PVF 7 (-0.10   -1.40%) KL: 225,920">6.5168</number>
+         <number label="">25.6</number>
+         <number>14.9</number>
+         <number tooltip="PVI 14.90 (-0.10   -0.70%) KL: 1,600">5</number>
+         <number label="">36.3</number>
+         <number>8.0</number>
+         <number tooltip="OGC 8 (-0.10   -1.20%) KL: 324,410">5</number>
+         <number label="">25.7</number>
+         <number>4.8</number>
+         <number tooltip="SHB 4.80 (-0.10   -2%) KL: 1,760,300">5</number>
+         <number label="">36.5</number>
+         <number>8.0</number>
+         <number tooltip="IJC 8 (-0.10   -1.20%) KL: 76,780">5</number>
+         <number label="">32</number>
+         <number>13.7</number>
+         <number tooltip="SBT 13.70 (-0.10   -0.70%) KL: 164,700">5</number>
+         <number label="">31.4</number>
+         <number>6.2</number>
+         <number tooltip="VCG 6.20 (-0.10   -1.60%) KL: 296,800">5</number>
+         <number label="">38.8</number>
+         <number>31.3</number>
+         <number tooltip="PNJ 31.30 (-0.10   -0.30%) KL: 67,790">5</number>
+         <number label="">22.2</number>
+         <number>17.4</number>
+         <number tooltip="OCH 17.40 (-0.10   -0.60%) KL: 6,000">5</number>
+         <number label="">23.3</number>
+         <number>16.8</number>
+         <number tooltip="HCM 16.80 (-0.10   -0.60%) KL: 25,950">5</number>
+         <number label="">26.6</number>
+         <number>12.3</number>
+         <number tooltip="DIG 12.30 (-0.30   -2.40%) KL: 79,550">5</number>
+         <number label="">26.2</number>
+         <number>5.1</number>
+         <number tooltip="KBC 5.10 (-0.10   -1.90%) KL: 298,970">5</number>
+         <number label="">30.5</number>
+         <number>6.9</number>
+         <number tooltip="ALP 6.90 (-0.10   -1.40%) KL: 14,880">5</number>
+         <number label="">25.2</number>
+         <number>28.7</number>
+         <number tooltip="CTD 28.70 (-0.30   -1%) KL: 4,600">5</number>
+         <number label="">34.9</number>
+         <number>27.1</number>
+         <number tooltip="PGD 27.10 (-0.40   -1.50%) KL: 42,130">5</number>
+         <number label="">29.8</number>
+         <number>6.3</number>
+         <number tooltip="SAM 6.30 (-0.10   -1.60%) KL: 526,930">5</number>
+         <number label="">21.5</number>
+         <number>7.9</number>
+         <number tooltip="VND 7.90 (-0.10   -1.20%) KL: 1,600,700">5</number>
+         <number label="">22.8</number>
+         <number>14.4</number>
+         <number tooltip="LSS 14.40 (-0.20   -1.40%) KL: 47,570">5</number>
+         <number label="">27</number>
+         <number>19.8</number>
+         <number tooltip="JVC 19.80 (-0.70   -3.40%) KL: 21,480">5</number>
+         <number label="">31.3</number>
+         <number>7.0</number>
+         <number tooltip="TDC 7 (-0.10   -1.40%) KL: 116,910">5</number>
+         <number label="">22.6</number>
+         <number>16.2</number>
+         <number tooltip="PGS 16.20 (-0.10   -0.60%) KL: 152,900">5</number>
+         <number label="">37</number>
+         <number>43.8</number>
+         <number tooltip="BMC 43.80 (-0.50   -1.10%) KL: 55,260">5</number>
+         <number label="">23.4</number>
+         <number>35.5</number>
+         <number tooltip="IMP 35.50 (-0.30   -0.80%) KL: 1,370">5</number>
+         <number label="">34.7</number>
+         <number>85.0</number>
+         <number tooltip="HGM 85 (-3   -3.40%) KL: 100">5</number>
+         <number label="">36.5</number>
+         <number>13.8</number>
+         <number tooltip="SJD 13.80 (-0.30   -2.10%) KL: 1,240">5</number>
+         <number label="">35.7</number>
+         <number>6.3</number>
+         <number tooltip="CTS 6.30 (-0.10   -1.60%) KL: 24,700">5</number>
+         <number label="">25.4</number>
+         <number>32.1</number>
+         <number tooltip="HHS 32.10 (-0.10   -0.30%) KL: 640">5</number>
+         <number label="">25.6</number>
+         <number>31.5</number>
+         <number tooltip="GIL 31.50 (-1   -3.10%) KL: 50">5</number>
+         <number label="">23.5</number>
+         <number>18.4</number>
+         <number tooltip="EVE 18.40 (-0.10   -0.50%) KL: 2,190">5</number>
+         <number label="">31.4</number>
+         <number>4.2</number>
+         <number tooltip="SCR 4.20 (-0.10   -2.30%) KL: 3,372,500">5</number>
+         <number label="">37.5</number>
+         <number>17.3</number>
+         <number tooltip="DQC 17.30 (-0.20   -1.10%) KL: 39,200">5</number>
+         <number label="">33.4</number>
+         <number>4.0</number>
+         <number tooltip="SHS 4 (-0.10   -2.40%) KL: 294,600">5</number>
+         <number label="">38.5</number>
+         <number>11.5</number>
+         <number tooltip="PVC 11.50 (-0.10   -0.90%) KL: 124,700">5</number>
+         <number label="">26.2</number>
+         <number>9.0</number>
+         <number tooltip="HLG 9 (-0.10   -1.10%) KL: 340">5</number>
+         <number label="">32.4</number>
+         <number>17.8</number>
+         <number tooltip="PTK 17.80 (-0.10   -0.60%) KL: 123,920">5</number>
+         <number label="">35.2</number>
+         <number>3.8</number>
+         <number tooltip="BCC 3.80 (-0.10   -2.60%) KL: 22,500">5</number>
+         <number label="">28.2</number>
+         <number>4.9</number>
+         <number tooltip="HOM 4.90 (-0.20   -3.90%) KL: 10,000">5</number>
+         <number label="">27.8</number>
+         <number>43.5</number>
+         <number tooltip="NSC 43.50 (-0.50   -1.10%) KL: 700">5</number>
+         <number label="">28.9</number>
+         <number>5.9</number>
+         <number tooltip="BTP 5.90 (-0.10   -1.70%) KL: 37,610">5</number>
+         <number label="">23.7</number>
+         <number>6.3</number>
+         <number tooltip="LCG 6.30 (-0.10   -1.60%) KL: 211,080">5</number>
+         <number label="">32.3</number>
+         <number>16.5</number>
+         <number tooltip="TCL 16.50 (-0.40   -2.40%) KL: 1,870">5</number>
+         <number label="">37.7</number>
+         <number>9.1</number>
+         <number tooltip="TDH 9.10 (-0.10   -1.10%) KL: 63,450">5</number>
+         <number label="">29.9</number>
+         <number>26.5</number>
+         <number tooltip="TH1 26.50 (-0.10   -0.40%) KL: 25,200">5</number>
+         <number label="">33.3</number>
+         <number>6.5</number>
+         <number tooltip="VIS 6.50 (-0.10   -1.50%) KL: 112,210">5</number>
+         <number label="">32.2</number>
+         <number>17.6</number>
+         <number tooltip="KSB 17.60 (-0.30   -1.70%) KL: 6,910">5</number>
+         <number label="">38.8</number>
+         <number>7.9</number>
+         <number tooltip="ASM 7.90 (-0.10   -1.20%) KL: 187,490">5</number>
+         <number label="">36</number>
+         <number>10.0</number>
+         <number tooltip="VCS 10 (-0.20   -2%) KL: 7,700">5</number>
+         <number label="">31.6</number>
+         <number>37.0</number>
+         <number tooltip="DSN 37 (-0.40   -1.10%) KL: 3,470">5</number>
+         <number label="">22.9</number>
+         <number>13.9</number>
+         <number tooltip="C21 13.90 (-0.20   -1.40%) KL: 4,900">5</number>
+         <number label="">36.3</number>
+         <number>20.7</number>
+         <number tooltip="AGF 20.70 (-0.30   -1.40%) KL: 40">5</number>
+         <number label="">32.1</number>
+         <number>6.9</number>
+         <number tooltip="IDI 6.90 (-0.10   -1.40%) KL: 81,420">5</number>
+         <number label="">35.3</number>
+         <number>16.0</number>
+         <number tooltip="BBC 16 (-0.60   -3.60%) KL: 23,470">5</number>
+         <number label="">31.8</number>
+         <number>7.1</number>
+         <number tooltip="HUT 7.10 (-0.20   -2.70%) KL: 36,300">5</number>
+         <number label="">31.1</number>
+         <number>4.0</number>
+         <number tooltip="HQC 4 (-0.10   -2.40%) KL: 718,500">5</number>
+         <number label="">31.4</number>
+         <number>26.8</number>
+         <number tooltip="VPK 26.80 (-0.90   -3.20%) KL: 61,360">5</number>
+         <number label="">26</number>
+         <number>11.4</number>
+         <number tooltip="ACL 11.40 (-0.10   -0.90%) KL: 3,600">5</number>
+         <number label="">36.7</number>
+         <number>7.4</number>
+         <number tooltip="PVG 7.40 (-0.10   -1.30%) KL: 140,900">5</number>
+         <number label="">23</number>
+         <number>1.5</number>
+         <number tooltip="SBS 1.50 (-0.10   -6.20%) KL: 108,460">5</number>
+         <number label="">36.5</number>
+         <number>3.5</number>
+         <number tooltip="WSS 3.50 (-0.10   -2.80%) KL: 64,100">5</number>
+         <number label="">36.3</number>
+         <number>26.7</number>
+         <number tooltip="PMC 26.70 (-1.20   -4.30%) KL: 1,000">5</number>
+         <number label="">29.3</number>
+         <number>16.5</number>
+         <number tooltip="D2D 16.50 (-0.30   -1.80%) KL: 480">5</number>
+         <number label="">38.6</number>
+         <number>6.2</number>
+         <number tooltip="KTB 6.20 (-0.10   -1.60%) KL: 347,980">5</number>
+         <number label="">32.3</number>
+         <number>4.3</number>
+         <number tooltip="HLA 4.30 (-0.10   -2.30%) KL: 177,000">5</number>
+         <number label="">25.8</number>
+         <number>22.2</number>
+         <number tooltip="SDG 22.20 (-0.50   -2.20%) KL: 21,200">5</number>
+         <number label="">32.1</number>
+         <number>11.1</number>
+         <number tooltip="TC6 11.10 (-0.20   -1.80%) KL: 3,500">5</number>
+         <number label="">26.4</number>
+         <number>5.9</number>
+         <number tooltip="KSS 5.90 (-0.10   -1.70%) KL: 206,610">5</number>
+         <number label="">21.5</number>
+         <number>9.3</number>
+         <number tooltip="PPS 9.30 (-0.20   -2.10%) KL: 288,500">5</number>
+         <number label="">26.4</number>
+         <number>3.7</number>
+         <number tooltip="PV2 3.70 (-0.10   -2.60%) KL: 41,300">5</number>
+         <number label="">34.6</number>
+         <number>7.2</number>
+         <number tooltip="POT 7.20 (-0.10   -1.40%) KL: 6,000">5</number>
+         <number label="">21.9</number>
+         <number>8.9</number>
+         <number tooltip="KSA 8.90 (-0.20   -2.20%) KL: 218,110">5</number>
+         <number label="">36.9</number>
+         <number>7.6</number>
+         <number tooltip="PVE 7.60 (-0.10   -1.30%) KL: 8,000">5</number>
+         <number label="">33.9</number>
+         <number>15.3</number>
+         <number tooltip="LCM 15.30 (-0.20   -1.30%) KL: 214,850">5</number>
+         <number label="">29.2</number>
+         <number>12.4</number>
+         <number tooltip="GDT 12.40 (-0.20   -1.60%) KL: 3,990">5</number>
+         <number label="">22.3</number>
+         <number>15.0</number>
+         <number tooltip="HHC 15 (-0.50   -3.20%) KL: 800">5</number>
+         <number label="">36.7</number>
+         <number>8.2</number>
+         <number tooltip="MDC 8.20 (-0.20   -2.40%) KL: 100">5</number>
+         <number label="">33.2</number>
+         <number>6.2</number>
+         <number tooltip="DNY 6.20 (-0.10   -1.60%) KL: 10,000">5</number>
+         <number label="">24.2</number>
+         <number>3.0</number>
+         <number tooltip="HPC 3 (-0.10   -3.20%) KL: 69,000">5</number>
+         <number label="">38.8</number>
+         <number>12.4</number>
+         <number tooltip="AAA 12.40 (-0.10   -0.80%) KL: 81,400">5</number>
+         <number label="">24.7</number>
+         <number>29.5</number>
+         <number tooltip="KTS 29.50 (-2.10   -6.60%) KL: 1,100">5</number>
+         <number label="">36.4</number>
+         <number>3.3</number>
+         <number tooltip="AVS 3.30 (-0.10   -2.90%) KL: 21,500">5</number>
+         <number label="">34.2</number>
+         <number>30.0</number>
+         <number tooltip="HAD 30 (-0.50   -1.60%) KL: 1,500">5</number>
+         <number label="">21.1</number>
+         <number>9.8</number>
+         <number tooltip="APC 9.80 (-0.30   -3%) KL: 4,050">5</number>
+         <number label="">29.7</number>
+         <number>6.1</number>
+         <number tooltip="FLC 6.10 (-0.10   -1.60%) KL: 593,800">5</number>
+         <number label="">34.5</number>
+         <number>6.8</number>
+         <number tooltip="HJS 6.80 (-0.20   -2.90%) KL: 19,400">5</number>
+         <number label="">27.6</number>
+         <number>5.0</number>
+         <number tooltip="ICG 5 (-0.10   -2%) KL: 119,300">5</number>
+         <number label="">37.6</number>
+         <number>5.9</number>
+         <number tooltip="DIC 5.90 (-0.10   -1.70%) KL: 95,810">5</number>
+         <number label="">33.2</number>
+         <number>8.4</number>
+         <number tooltip="TS4 8.40 (-0.10   -1.20%) KL: 13,230">5</number>
+         <number label="">30.3</number>
+         <number>5.3</number>
+         <number tooltip="SD6 5.30 (-0.10   -1.90%) KL: 27,200">5</number>
+         <number label="">30.9</number>
+         <number>11.0</number>
+         <number tooltip="LGC 11 (-0.20   -1.80%) KL: 4,310">5</number>
+         <number label="">32.4</number>
+         <number>11.0</number>
+         <number tooltip="BRC 11 (-0.20   -1.80%) KL: 13,750">5</number>
+         <number label="">32</number>
+         <number>10.6</number>
+         <number tooltip="LM8 10.60 (-0.10   -0.90%) KL: 1,620">5</number>
+         <number label="">38.3</number>
+         <number>15.0</number>
+         <number tooltip="VNT 15 (-0.60   -3.80%) KL: 7,000">5</number>
+         <number label="">32.5</number>
+         <number>8.6</number>
+         <number tooltip="CCI 8.60 (-0.10   -1.10%) KL: 20">5</number>
+         <number label="">26.2</number>
+         <number>7.4</number>
+         <number tooltip="HU1 7.40 (-0.10   -1.30%) KL: 1,860">5</number>
+         <number label="">24.2</number>
+         <number>13.6</number>
+         <number tooltip="INN 13.60 (-0.10   -0.70%) KL: 400">5</number>
+         <number label="">37.6</number>
+         <number>5.3</number>
+         <number tooltip="EFI 5.30 (-0.10   -1.90%) KL: 17,400">5</number>
+         <number label="">35.7</number>
+         <number>7.0</number>
+         <number tooltip="SAV 7 (-0.10   -1.40%) KL: 5,960">5</number>
+         <number label="">37.1</number>
+         <number>8.0</number>
+         <number tooltip="CVT 8 (-0.20   -2.40%) KL: 4,900">5</number>
+         <number label="">29.1</number>
+         <number>3.0</number>
+         <number tooltip="SDH 3 (-0.10   -3.20%) KL: 53,600">5</number>
+         <number label="">25.5</number>
+         <number>3.8</number>
+         <number tooltip="IVS 3.80 (-0.10   -2.60%) KL: 37,200">5</number>
+         <number label="">27</number>
+         <number>11.7</number>
+         <number tooltip="RHC 11.70 (-0.20   -1.70%) KL: 1,000">5</number>
+         <number label="">31.7</number>
+         <number>8.0</number>
+         <number tooltip="STP 8 (-0.20   -2.40%) KL: 5,400">5</number>
+         <number label="">34.2</number>
+         <number>5.7</number>
+         <number tooltip="HDO 5.70 (-0.20   -3.40%) KL: 33,300">5</number>
+         <number label="">24.8</number>
+         <number>8.6</number>
+         <number tooltip="KKC 8.60 (-0.30   -3.40%) KL: 1,200">5</number>
+         <number label="">25</number>
+         <number>2.9</number>
+         <number tooltip="STL 2.90 (-0.10   -3.30%) KL: 12,400">5</number>
+         <number label="">29.7</number>
+         <number>11.0</number>
+         <number tooltip="MIH 11 (-0.10   -0.90%) KL: 300">5</number>
+         <number label="">25.9</number>
+         <number>13.9</number>
+         <number tooltip="ASA 13.90 (-0.10   -0.70%) KL: 64,500">5</number>
+         <number label="">24.1</number>
+         <number>4.1</number>
+         <number tooltip="DXV 4.10 (-0.10   -2.40%) KL: 8,140">5</number>
+         <number label="">25</number>
+         <number>5.9</number>
+         <number tooltip="CMI 5.90 (-0.30   -4.80%) KL: 182,000">5</number>
+         <number label="">32.8</number>
+         <number>5.8</number>
+         <number tooltip="BKC 5.80 (-0.20   -3.30%) KL: 6,100">5</number>
+         <number label="">37.3</number>
+         <number>9.0</number>
+         <number tooltip="HCC 9 (-0.30   -3.20%) KL: 1,700">5</number>
+         <number label="">31.2</number>
+         <number>5.6</number>
+         <number tooltip="SSM 5.60 (-0.10   -1.80%) KL: 6,500">5</number>
+         <number label="">33.9</number>
+         <number>8.0</number>
+         <number tooltip="APP 8 (-0.10   -1.20%) KL: 2,500">5</number>
+         <number label="">36.8</number>
+         <number>2.9</number>
+         <number tooltip="PGT 2.90 (-0.10   -3.30%) KL: 8,800">5</number>
+         <number label="">23.7</number>
+         <number>9.4</number>
+         <number tooltip="VBH 9.40 (-0.10   -1.10%) KL: 600">5</number>
+         <number label="">27.1</number>
+         <number>19.8</number>
+         <number tooltip="QTC 19.80 (-0.40   -2%) KL: 2,300">5</number>
+         <number label="">33</number>
+         <number>4.7</number>
+         <number tooltip="VC5 4.70 (-0.10   -2.10%) KL: 2,500">5</number>
+         <number label="">29.5</number>
+         <number>5.3</number>
+         <number tooltip="BTH 5.30 (-0.20   -3.60%) KL: 3,000">5</number>
+         <number label="">22.7</number>
+         <number>7.5</number>
+         <number tooltip="PPP 7.50 (-0.30   -3.80%) KL: 100">5</number>
+         <number label="">38.6</number>
+         <number>5.0</number>
+         <number tooltip="DZM 5 (-0.10   -2%) KL: 200">5</number>
+         <number label="">35.2</number>
+         <number>4.5</number>
+         <number tooltip="S91 4.50 (-0.20   -4.30%) KL: 600">5</number>
+         <number label="">22.1</number>
+         <number>12.5</number>
+         <number tooltip="ADC 12.50 (-0.60   -4.60%) KL: 400">5</number>
+         <number label="">36.6</number>
+         <number>11.6</number>
+         <number tooltip="SII 11.60 (-0.20   -1.70%) KL: 66,550">5</number>
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+      </row>
+      <row>
+         <string>Dung Gia (347)</string>
+         <number bevel="data" label="GAS">51.9</number>
+         <number>39.0</number>
+         <number tooltip="GAS 39 (0   0%) KL: 82,060">113.0582</number>
+         <number bevel="data" label="VNM">48.2</number>
+         <number>130.0</number>
+         <number tooltip="VNM 130 (0   0%) KL: 133,190">110.5951</number>
+         <number bevel="data" label="VIC">50.1</number>
+         <number>76.0</number>
+         <number tooltip="VIC 76 (0   0%) KL: 30,240">81.4379</number>
+         <number bevel="data" label="STB">43.4</number>
+         <number>18.3</number>
+         <number tooltip="STB 18.30 (0   0%) KL: 242,420">30.0656</number>
+         <number bevel="data" label="ACB">52.3</number>
+         <number>14.6</number>
+         <number tooltip="ACB 14.60 (0   0%) KL: 92,400">20.8511</number>
+         <number bevel="data" label="MBB">43.2</number>
+         <number>12.1</number>
+         <number tooltip="MBB 12.10 (0   0%) KL: 319,780">18.5103</number>
+         <number bevel="data" label="FPT">42.1</number>
+         <number>33.9</number>
+         <number tooltip="FPT 33.90 (0   0%) KL: 31,930">14.1951</number>
+         <number bevel="data" label="SQC">42.9</number>
+         <number>79.6</number>
+         <number tooltip="SQC 79.60 (0   0%) KL: 0">12.177</number>
+         <number bevel="data" label="PVD">51.1</number>
+         <number>34.6</number>
+         <number tooltip="PVD 34.60 (0   0%) KL: 21,040">11.1423</number>
+         <number bevel="data" label="PVS">51.5</number>
+         <number>15.0</number>
+         <number tooltip="PVS 15 (0   0%) KL: 132,700">6.8336</number>
+         <number label="">41.6</number>
+         <number>8.7</number>
+         <number tooltip="PPC 8.70 (0   0%) KL: 95,930">5</number>
+         <number label="">45.6</number>
+         <number>11.0</number>
+         <number tooltip="VSH 11 (0   0%) KL: 82,230">5</number>
+         <number label="">46.3</number>
+         <number>12.0</number>
+         <number tooltip="POM 12 (0   0%) KL: 10,000">5</number>
+         <number label="">53</number>
+         <number>6.7</number>
+         <number tooltip="NVB 6.70 (0   0%) KL: 300">5</number>
+         <number label="">47.5</number>
+         <number>3.9</number>
+         <number tooltip="ITA 3.90 (0   0%) KL: 1,219,340">5</number>
+         <number label="">45.5</number>
+         <number>24.7</number>
+         <number tooltip="DRC 24.70 (0   0%) KL: 155,610">5</number>
+         <number label="">54.5</number>
+         <number>12.7</number>
+         <number tooltip="PDR 12.70 (0   0%) KL: 0">5</number>
+         <number label="">51</number>
+         <number>7.4</number>
+         <number tooltip="KLS 7.40 (0   0%) KL: 848,100">5</number>
+         <number label="">44.3</number>
+         <number>41.0</number>
+         <number tooltip="BMP 41 (0   0%) KL: 6,160">5</number>
+         <number label="">55.4</number>
+         <number>29.0</number>
+         <number tooltip="VHC 29 (0   0%) KL: 0">5</number>
+         <number label="">57.2</number>
+         <number>21.3</number>
+         <number tooltip="CSM 21.30 (0   0%) KL: 170,610">5</number>
+         <number label="">46.3</number>
+         <number>4.2</number>
+         <number tooltip="PVX 4.20 (0   0%) KL: 1,089,200">5</number>
+         <number label="">49.4</number>
+         <number>4.9</number>
+         <number tooltip="AGR 4.90 (0   0%) KL: 4,640">5</number>
+         <number label="">41.7</number>
+         <number>84.0</number>
+         <number tooltip="TRA 84 (0   0%) KL: 0">5</number>
+         <number label="">41.7</number>
+         <number>14.3</number>
+         <number tooltip="NTL 14.30 (0   0%) KL: 54,620">5</number>
+         <number label="">44.2</number>
+         <number>3.8</number>
+         <number tooltip="PVT 3.80 (0   0%) KL: 74,290">5</number>
+         <number label="">58</number>
+         <number>6.9</number>
+         <number tooltip="QCG 6.90 (0   0%) KL: 13,630">5</number>
+         <number label="">50.9</number>
+         <number>42.0</number>
+         <number tooltip="DVP 42 (0   0%) KL: 7,750">5</number>
+         <number label="">55.4</number>
+         <number>3.9</number>
+         <number tooltip="HT1 3.90 (0   0%) KL: 8,840">5</number>
+         <number label="">54</number>
+         <number>15.2</number>
+         <number tooltip="PLC 15.20 (0   0%) KL: 15,900">5</number>
+         <number label="">55.5</number>
+         <number>11.8</number>
+         <number tooltip="TBC 11.80 (0   0%) KL: 1,850">5</number>
+         <number label="">50.6</number>
+         <number>38.4</number>
+         <number tooltip="TAC 38.40 (0   0%) KL: 10">5</number>
+         <number label="">46.8</number>
+         <number>9.4</number>
+         <number tooltip="BVS 9.40 (0   0%) KL: 251,200">5</number>
+         <number label="">53.7</number>
+         <number>13.0</number>
+         <number tooltip="DTL 13 (0   0%) KL: 9,010">5</number>
+         <number label="">56.7</number>
+         <number>8.4</number>
+         <number tooltip="PGI 8.40 (0   0%) KL: 2,160">5</number>
+         <number label="">41.7</number>
+         <number>7.5</number>
+         <number tooltip="BMI 7.50 (0   0%) KL: 5,130">5</number>
+         <number label="">41.7</number>
+         <number>25.9</number>
+         <number tooltip="VTF 25.90 (0   0%) KL: 0">5</number>
+         <number label="">54.5</number>
+         <number>38.4</number>
+         <number tooltip="ABT 38.40 (0   0%) KL: 1,080">5</number>
+         <number label="">42.1</number>
+         <number>32.0</number>
+         <number tooltip="NBB 32 (0   0%) KL: 0">5</number>
+         <number label="">58.4</number>
+         <number>26.8</number>
+         <number tooltip="DMC 26.80 (0   0%) KL: 210">5</number>
+         <number label="">53.3</number>
+         <number>6.9</number>
+         <number tooltip="ITC 6.90 (0   0%) KL: 8,390">5</number>
+         <number label="">52</number>
+         <number>36.0</number>
+         <number tooltip="OPC 36 (0   0%) KL: 0">5</number>
+         <number label="">44.3</number>
+         <number>11.2</number>
+         <number tooltip="HDG 11.20 (0   0%) KL: 13,440">5</number>
+         <number label="">44.5</number>
+         <number>10.2</number>
+         <number tooltip="KDH 10.20 (0   0%) KL: 92,700">5</number>
+         <number label="">43.3</number>
+         <number>14.8</number>
+         <number tooltip="BHS 14.80 (0   0%) KL: 18,930">5</number>
+         <number label="">57</number>
+         <number>6.4</number>
+         <number tooltip="BIC 6.40 (0   0%) KL: 10,260">5</number>
+         <number label="">45.9</number>
+         <number>9.1</number>
+         <number tooltip="PTI 9.10 (0   0%) KL: 1,900">5</number>
+         <number label="">41.9</number>
+         <number>26.7</number>
+         <number tooltip="TTP 26.70 (0   0%) KL: 0">5</number>
+         <number label="">41.9</number>
+         <number>14.2</number>
+         <number tooltip="PAC 14.20 (0   0%) KL: 480">5</number>
+         <number label="">53.8</number>
+         <number>27.0</number>
+         <number tooltip="COM 27 (0   0%) KL: 370">5</number>
+         <number label="">50</number>
+         <number>13.8</number>
+         <number tooltip="HDC 13.80 (0   0%) KL: 0">5</number>
+         <number label="">45.5</number>
+         <number>12.8</number>
+         <number tooltip="SMC 12.80 (0   0%) KL: 1,020">5</number>
+         <number label="">49.5</number>
+         <number>5.7</number>
+         <number tooltip="VNE 5.70 (0   0%) KL: 221,580">5</number>
+         <number label="">55.6</number>
+         <number>5.9</number>
+         <number tooltip="VIP 5.90 (0   0%) KL: 159,450">5</number>
+         <number label="">53.8</number>
+         <number>19.9</number>
+         <number tooltip="SEC 19.90 (0   0%) KL: 10">5</number>
+         <number label="">53.3</number>
+         <number>3.1</number>
+         <number tooltip="BTS 3.10 (0   0%) KL: 0">5</number>
+         <number label="">50.8</number>
+         <number>2.4</number>
+         <number tooltip="VOS 2.40 (0   0%) KL: 3,760">5</number>
+         <number label="">54.4</number>
+         <number>4.2</number>
+         <number tooltip="VTO 4.20 (0   0%) KL: 13,210">5</number>
+         <number label="">55.5</number>
+         <number>4.1</number>
+         <number tooltip="VFMVF4 4.10 (0   0%) KL: 10,550">5</number>
+         <number label="">41</number>
+         <number>6.5</number>
+         <number tooltip="PRUBF1 6.50 (0   0%) KL: 7,880">5</number>
+         <number label="">52.7</number>
+         <number>7.7</number>
+         <number tooltip="KHP 7.70 (0   0%) KL: 31,850">5</number>
+         <number label="">52.5</number>
+         <number>5.1</number>
+         <number tooltip="NVT 5.10 (0   0%) KL: 148,580">5</number>
+         <number label="">47.2</number>
+         <number>8.6</number>
+         <number tooltip="VFC 8.60 (0   0%) KL: 0">5</number>
+         <number label="">53.3</number>
+         <number>36.5</number>
+         <number tooltip="NET 36.50 (0   0%) KL: 200">5</number>
+         <number label="">54.1</number>
+         <number>9.1</number>
+         <number tooltip="DXG 9.10 (0   0%) KL: 53,640">5</number>
+         <number label="">45.9</number>
+         <number>25.5</number>
+         <number tooltip="AAM 25.50 (0   0%) KL: 0">5</number>
+         <number label="">49.1</number>
+         <number>14.9</number>
+         <number tooltip="TNC 14.90 (0   0%) KL: 78,430">5</number>
+         <number label="">46.4</number>
+         <number>24.4</number>
+         <number tooltip="RAL 24.40 (0   0%) KL: 830">5</number>
+         <number label="">56</number>
+         <number>8.9</number>
+         <number tooltip="VIX 8.90 (0   0%) KL: 0">5</number>
+         <number label="">56</number>
+         <number>3.5</number>
+         <number tooltip="SGT 3.50 (0   0%) KL: 0">5</number>
+         <number label="">54.4</number>
+         <number>77.0</number>
+         <number tooltip="TCT 77 (0   0%) KL: 1,100">5</number>
+         <number label="">52.1</number>
+         <number>4.5</number>
+         <number tooltip="PVA 4.50 (0   0%) KL: 94,800">5</number>
+         <number label="">55.3</number>
+         <number>12.0</number>
+         <number tooltip="SZL 12 (0   0%) KL: 0">5</number>
+         <number label="">55.5</number>
+         <number>7.8</number>
+         <number tooltip="BCE 7.80 (0   0%) KL: 8,010">5</number>
+         <number label="">50</number>
+         <number>10.0</number>
+         <number tooltip="NHW 10 (0   0%) KL: 0">5</number>
+         <number label="">55.6</number>
+         <number>9.5</number>
+         <number tooltip="ASIAGF 9.50 (0   0%) KL: 0">5</number>
+         <number label="">44.9</number>
+         <number>24.0</number>
+         <number tooltip="DRL 24 (0   0%) KL: 50">5</number>
+         <number label="">52.7</number>
+         <number>28.3</number>
+         <number tooltip="HOT 28.30 (0   0%) KL: 0">5</number>
+         <number label="">56.9</number>
+         <number>22.0</number>
+         <number tooltip="SFC 22 (0   0%) KL: 0">5</number>
+         <number label="">46</number>
+         <number>6.8</number>
+         <number tooltip="HBS 6.80 (0   0%) KL: 600">5</number>
+         <number label="">49.5</number>
+         <number>4.3</number>
+         <number tooltip="SBA 4.30 (0   0%) KL: 8,320">5</number>
+         <number label="">45.8</number>
+         <number>8.6</number>
+         <number tooltip="TPC 8.60 (0   0%) KL: 2,080">5</number>
+         <number label="">52.2</number>
+         <number>10.5</number>
+         <number tooltip="KAC 10.50 (0   0%) KL: 0">5</number>
+         <number label="">50.9</number>
+         <number>25.5</number>
+         <number tooltip="TAG 25.50 (0   0%) KL: 800">5</number>
+         <number label="">54.7</number>
+         <number>22.7</number>
+         <number tooltip="SVI 22.70 (0   0%) KL: 7,000">5</number>
+         <number label="">56.1</number>
+         <number>4.6</number>
+         <number tooltip="GTT 4.60 (0   0%) KL: 2,400">5</number>
+         <number label="">41.5</number>
+         <number>14.0</number>
+         <number tooltip="SC5 14 (0   0%) KL: 540">5</number>
+         <number label="">42.5</number>
+         <number>14.3</number>
+         <number tooltip="CLC 14.30 (0   0%) KL: 0">5</number>
+         <number label="">58.7</number>
+         <number>7.9</number>
+         <number tooltip="TV1 7.90 (0   0%) KL: 0">5</number>
+         <number label="">47.2</number>
+         <number>21.0</number>
+         <number tooltip="TDW 21 (0   0%) KL: 0">5</number>
+         <number label="">53.3</number>
+         <number>13.4</number>
+         <number tooltip="NBP 13.40 (0   0%) KL: 0">5</number>
+         <number label="">52.7</number>
+         <number>11.4</number>
+         <number tooltip="TCS 11.40 (0   0%) KL: 9,000">5</number>
+         <number label="">57</number>
+         <number>8.1</number>
+         <number tooltip="HMC 8.10 (0   0%) KL: 1,310">5</number>
+         <number label="">54.4</number>
+         <number>29.7</number>
+         <number tooltip="VNF 29.70 (0   0%) KL: 0">5</number>
+         <number label="">57.2</number>
+         <number>18.5</number>
+         <number tooltip="GMC 18.50 (0   0%) KL: 0">5</number>
+         <number label="">42.3</number>
+         <number>18.4</number>
+         <number tooltip="STG 18.40 (0   0%) KL: 0">5</number>
+         <number label="">51.1</number>
+         <number>11.7</number>
+         <number tooltip="TCO 11.70 (0   0%) KL: 0">5</number>
+         <number label="">55.4</number>
+         <number>11.3</number>
+         <number tooltip="FDG 11.30 (0   0%) KL: 0">5</number>
+         <number label="">42.5</number>
+         <number>12.3</number>
+         <number tooltip="PTB 12.30 (0   0%) KL: 0">5</number>
+         <number label="">45.6</number>
+         <number>4.2</number>
+         <number tooltip="VDS 4.20 (0   0%) KL: 1,500">5</number>
+         <number label="">43.5</number>
+         <number>11.1</number>
+         <number tooltip="CLW 11.10 (0   0%) KL: 0">5</number>
+         <number label="">49.6</number>
+         <number>4.3</number>
+         <number tooltip="TTF 4.30 (0   0%) KL: 109,330">5</number>
+         <number label="">57.1</number>
+         <number>11.5</number>
+         <number tooltip="NBC 11.50 (0   0%) KL: 41,800">5</number>
+         <number label="">44</number>
+         <number>9.7</number>
+         <number tooltip="KHA 9.70 (0   0%) KL: 12,730">5</number>
+         <number label="">43.2</number>
+         <number>11.4</number>
+         <number tooltip="HLC 11.40 (0   0%) KL: 0">5</number>
+         <number label="">45.6</number>
+         <number>8.9</number>
+         <number tooltip="DHA 8.90 (0   0%) KL: 11,060">5</number>
+         <number label="">47.7</number>
+         <number>10.5</number>
+         <number tooltip="DAG 10.50 (0   0%) KL: 8,710">5</number>
+         <number label="">53.4</number>
+         <number>11.4</number>
+         <number tooltip="THB 11.40 (0   0%) KL: 0">5</number>
+         <number label="">56.6</number>
+         <number>2.6</number>
+         <number tooltip="PVL 2.60 (0   0%) KL: 212,600">5</number>
+         <number label="">54.8</number>
+         <number>12.6</number>
+         <number tooltip="NHS 12.60 (0   0%) KL: 54,190">5</number>
+         <number label="">53.3</number>
+         <number>14.4</number>
+         <number tooltip="VMD 14.40 (0   0%) KL: 11,290">5</number>
+         <number label="">42.4</number>
+         <number>67.0</number>
+         <number tooltip="SGH 67 (0   0%) KL: 0">5</number>
+         <number label="">46.4</number>
+         <number>3.0</number>
+         <number tooltip="APS 3 (0   0%) KL: 38,600">5</number>
+         <number label="">42.8</number>
+         <number>7.6</number>
+         <number tooltip="TVD 7.60 (0   0%) KL: 0">5</number>
+         <number label="">54.3</number>
+         <number>36.8</number>
+         <number tooltip="VDL 36.80 (0   0%) KL: 0">5</number>
+         <number label="">48.3</number>
+         <number>11.0</number>
+         <number tooltip="VLF 11 (0   0%) KL: 0">5</number>
+         <number label="">48.1</number>
+         <number>3.8</number>
+         <number tooltip="PXI 3.80 (0   0%) KL: 25,910">5</number>
+         <number label="">46</number>
+         <number>5.7</number>
+         <number tooltip="XMC 5.70 (0   0%) KL: 0">5</number>
+         <number label="">43</number>
+         <number>11.0</number>
+         <number tooltip="MCP 11 (0   0%) KL: 0">5</number>
+         <number label="">41.4</number>
+         <number>5.8</number>
+         <number tooltip="DHC 5.80 (0   0%) KL: 0">5</number>
+         <number label="">42.3</number>
+         <number>4.0</number>
+         <number tooltip="HAP 4 (0   0%) KL: 39,970">5</number>
+         <number label="">55.7</number>
+         <number>15.6</number>
+         <number tooltip="SGC 15.60 (0   0%) KL: 0">5</number>
+         <number label="">51.4</number>
+         <number>7.1</number>
+         <number tooltip="VTV 7.10 (0   0%) KL: 15,300">5</number>
+         <number label="">46.2</number>
+         <number>2.2</number>
+         <number tooltip="PFL 2.20 (0   0%) KL: 69,000">5</number>
+         <number label="">54.4</number>
+         <number>5.5</number>
+         <number tooltip="SDU 5.50 (0   0%) KL: 0">5</number>
+         <number label="">41.3</number>
+         <number>9.1</number>
+         <number tooltip="VC2 9.10 (0   0%) KL: 0">5</number>
+         <number label="">53.2</number>
+         <number>13.8</number>
+         <number tooltip="VNC 13.80 (0   0%) KL: 0">5</number>
+         <number label="">53.3</number>
+         <number>12.0</number>
+         <number tooltip="VNL 12 (0   0%) KL: 0">5</number>
+         <number label="">46.8</number>
+         <number>14.5</number>
+         <number tooltip="VC1 14.50 (0   0%) KL: 0">5</number>
+         <number label="">49.3</number>
+         <number>21.4</number>
+         <number tooltip="CAN 21.40 (0   0%) KL: 0">5</number>
+         <number label="">42</number>
+         <number>11.5</number>
+         <number tooltip="GLT 11.50 (0   0%) KL: 0">5</number>
+         <number label="">45.2</number>
+         <number>3.0</number>
+         <number tooltip="DCS 3 (0   0%) KL: 316,900">5</number>
+         <number label="">49.1</number>
+         <number>34.7</number>
+         <number tooltip="SVN 34.70 (0   0%) KL: 0">5</number>
+         <number label="">42.5</number>
+         <number>2.6</number>
+         <number tooltip="NTB 2.60 (0   0%) KL: 8,020">5</number>
+         <number label="">50.2</number>
+         <number>22.7</number>
+         <number tooltip="SAF 22.70 (0   0%) KL: 0">5</number>
+         <number label="">42.9</number>
+         <number>4.2</number>
+         <number tooltip="TKU 4.20 (0   0%) KL: 800">5</number>
+         <number label="">44.6</number>
+         <number>3.1</number>
+         <number tooltip="IDJ 3.10 (0   0%) KL: 69,500">5</number>
+         <number label="">48.5</number>
+         <number>40.1</number>
+         <number tooltip="WCS 40.10 (0   0%) KL: 100">5</number>
+         <number label="">43.3</number>
+         <number>12.0</number>
+         <number tooltip="VGP 12 (0   0%) KL: 0">5</number>
+         <number label="">54.8</number>
+         <number>12.1</number>
+         <number tooltip="C47 12.10 (0   0%) KL: 0">5</number>
+         <number label="">49.9</number>
+         <number>7.3</number>
+         <number tooltip="VSI 7.30 (0   0%) KL: 0">5</number>
+         <number label="">56.2</number>
+         <number>13.1</number>
+         <number tooltip="HMH 13.10 (0   0%) KL: 0">5</number>
+         <number label="">51.5</number>
+         <number>4.9</number>
+         <number tooltip="PCG 4.90 (0   0%) KL: 0">5</number>
+         <number label="">47.6</number>
+         <number>7.6</number>
+         <number tooltip="LUT 7.60 (0   0%) KL: 0">5</number>
+         <number label="">48.5</number>
+         <number>10.1</number>
+         <number tooltip="SVT 10.10 (0   0%) KL: 0">5</number>
+         <number label="">54.3</number>
+         <number>9.5</number>
+         <number tooltip="THT 9.50 (0   0%) KL: 12,000">5</number>
+         <number label="">52.9</number>
+         <number>15.0</number>
+         <number tooltip="TET 15 (0   0%) KL: 0">5</number>
+         <number label="">54.6</number>
+         <number>12.4</number>
+         <number tooltip="IFS 12.40 (0   0%) KL: 0">5</number>
+         <number label="">49.6</number>
+         <number>23.5</number>
+         <number tooltip="IDV 23.50 (0   0%) KL: 0">5</number>
+         <number label="">46.9</number>
+         <number>14.9</number>
+         <number tooltip="ALT 14.90 (0   0%) KL: 0">5</number>
+         <number label="">55</number>
+         <number>9.3</number>
+         <number tooltip="LBM 9.30 (0   0%) KL: 16,610">5</number>
+         <number label="">58.2</number>
+         <number>7.9</number>
+         <number tooltip="DCL 7.90 (0   0%) KL: 11,650">5</number>
+         <number label="">41</number>
+         <number>9.2</number>
+         <number tooltip="SCD 9.20 (0   0%) KL: 2,010">5</number>
+         <number label="">56.8</number>
+         <number>6.5</number>
+         <number tooltip="LIG 6.50 (0   0%) KL: 0">5</number>
+         <number label="">52.5</number>
+         <number>7.7</number>
+         <number tooltip="HU3 7.70 (0   0%) KL: 0">5</number>
+         <number label="">58.7</number>
+         <number>7.5</number>
+         <number tooltip="EBS 7.50 (0   0%) KL: 69,800">5</number>
+         <number label="">44.5</number>
+         <number>5.1</number>
+         <number tooltip="CDC 5.10 (0   0%) KL: 49,500">5</number>
+         <number label="">48.6</number>
+         <number>16.7</number>
+         <number tooltip="RCL 16.70 (0   0%) KL: 1,100">5</number>
+         <number label="">48.9</number>
+         <number>41.5</number>
+         <number tooltip="HTB 41.50 (0   0%) KL: 0">5</number>
+         <number label="">45.6</number>
+         <number>9.3</number>
+         <number tooltip="VC3 9.30 (0   0%) KL: 0">5</number>
+         <number label="">49.6</number>
+         <number>8.4</number>
+         <number tooltip="GFC 8.40 (0   0%) KL: 0">5</number>
+         <number label="">46.4</number>
+         <number>2.6</number>
+         <number tooltip="KMR 2.60 (0   0%) KL: 178,810">5</number>
+         <number label="">49.8</number>
+         <number>4.8</number>
+         <number tooltip="VRC 4.80 (0   0%) KL: 1,600">5</number>
+         <number label="">57.8</number>
+         <number>10.6</number>
+         <number tooltip="VMC 10.60 (0   0%) KL: 0">5</number>
+         <number label="">47.9</number>
+         <number>13.0</number>
+         <number tooltip="HTC 13 (0   0%) KL: 0">5</number>
+         <number label="">41</number>
+         <number>0.8</number>
+         <number tooltip="THV 0.80 (0   0%) KL: 537,200">5</number>
+         <number label="">41.6</number>
+         <number>6.7</number>
+         <number tooltip="HSI 6.70 (0   0%) KL: 0">5</number>
+         <number label="">51.5</number>
+         <number>21.0</number>
+         <number tooltip="FDT 21 (0   0%) KL: 0">5</number>
+         <number label="">48.5</number>
+         <number>9.2</number>
+         <number tooltip="NST 9.20 (0   0%) KL: 0">5</number>
+         <number label="">43.9</number>
+         <number>2.7</number>
+         <number tooltip="PCT 2.70 (0   0%) KL: 200">5</number>
+         <number label="">47.3</number>
+         <number>19.5</number>
+         <number tooltip="HAT 19.50 (0   0%) KL: 0">5</number>
+         <number label="">57.5</number>
+         <number>4.8</number>
+         <number tooltip="HNM 4.80 (0   0%) KL: 4,300">5</number>
+         <number label="">41.1</number>
+         <number>12.5</number>
+         <number tooltip="HPR 12.50 (0   0%) KL: 0">5</number>
+         <number label="">57.9</number>
+         <number>8.2</number>
+         <number tooltip="HVT 8.20 (0   0%) KL: 0">5</number>
+         <number label="">46.1</number>
+         <number>10.7</number>
+         <number tooltip="GMX 10.70 (0   0%) KL: 0">5</number>
+         <number label="">48.6</number>
+         <number>3.8</number>
+         <number tooltip="LAF 3.80 (0   0%) KL: 11,190">5</number>
+         <number label="">53.1</number>
+         <number>11.9</number>
+         <number tooltip="MCC 11.90 (0   0%) KL: 0">5</number>
+         <number label="">58.1</number>
+         <number>29.9</number>
+         <number tooltip="VTL 29.90 (0   0%) KL: 0">5</number>
+         <number label="">44.2</number>
+         <number>6.6</number>
+         <number tooltip="DTT 6.60 (0   0%) KL: 10">5</number>
+         <number label="">43.6</number>
+         <number>6.7</number>
+         <number tooltip="THG 6.70 (0   0%) KL: 7,270">5</number>
+         <number label="">45.9</number>
+         <number>6.7</number>
+         <number tooltip="NAV 6.70 (0   0%) KL: 0">5</number>
+         <number label="">58.3</number>
+         <number>3.6</number>
+         <number tooltip="NAG 3.60 (0   0%) KL: 0">5</number>
+         <number label="">42.8</number>
+         <number>4.4</number>
+         <number tooltip="ATA 4.40 (0   0%) KL: 5,050">5</number>
+         <number label="">45.9</number>
+         <number>17.5</number>
+         <number tooltip="DBT 17.50 (0   0%) KL: 0">5</number>
+         <number label="">56</number>
+         <number>4.0</number>
+         <number tooltip="VNG 4 (0   0%) KL: 0">5</number>
+         <number label="">54.3</number>
+         <number>11.9</number>
+         <number tooltip="CPC 11.90 (0   0%) KL: 0">5</number>
+         <number label="">45.5</number>
+         <number>14.6</number>
+         <number tooltip="DNP 14.60 (0   0%) KL: 0">5</number>
+         <number label="">41.4</number>
+         <number>5.1</number>
+         <number tooltip="SCJ 5.10 (0   0%) KL: 0">5</number>
+         <number label="">43.9</number>
+         <number>3.3</number>
+         <number tooltip="PDC 3.30 (0   0%) KL: 2,200">5</number>
+         <number label="">53.4</number>
+         <number>18.0</number>
+         <number tooltip="AMC 18 (0   0%) KL: 0">5</number>
+         <number label="">46.1</number>
+         <number>4.5</number>
+         <number tooltip="KMT 4.50 (0   0%) KL: 0">5</number>
+         <number label="">52.6</number>
+         <number>9.0</number>
+         <number tooltip="L18 9 (0   0%) KL: 0">5</number>
+         <number label="">58.9</number>
+         <number>10.0</number>
+         <number tooltip="YBC 10 (0   0%) KL: 0">5</number>
+         <number label="">54.9</number>
+         <number>10.4</number>
+         <number tooltip="CCM 10.40 (0   0%) KL: 0">5</number>
+         <number label="">51.3</number>
+         <number>3.6</number>
+         <number tooltip="CMX 3.60 (0   0%) KL: 130">5</number>
+         <number label="">47.8</number>
+         <number>23.5</number>
+         <number tooltip="LHC 23.50 (0   0%) KL: 5,000">5</number>
+         <number label="">55</number>
+         <number>10.4</number>
+         <number tooltip="TV2 10.40 (0   0%) KL: 0">5</number>
+         <number label="">52</number>
+         <number>15.3</number>
+         <number tooltip="VBC 15.30 (0   0%) KL: 0">5</number>
+         <number label="">58.4</number>
+         <number>9.5</number>
+         <number tooltip="PSC 9.50 (0   0%) KL: 100">5</number>
+         <number label="">44.5</number>
+         <number>14.7</number>
+         <number tooltip="CTB 14.70 (0   0%) KL: 0">5</number>
+         <number label="">55</number>
+         <number>4.5</number>
+         <number tooltip="NDN 4.50 (0   0%) KL: 146,300">5</number>
+         <number label="">46.6</number>
+         <number>5.0</number>
+         <number tooltip="SD7 5 (0   0%) KL: 3,900">5</number>
+         <number label="">42.9</number>
+         <number>5.4</number>
+         <number tooltip="TSC 5.40 (0   0%) KL: 4,120">5</number>
+         <number label="">55.1</number>
+         <number>8.7</number>
+         <number tooltip="CSC 8.70 (0   0%) KL: 0">5</number>
+         <number label="">45.4</number>
+         <number>1.8</number>
+         <number tooltip="ORS 1.80 (0   0%) KL: 37,100">5</number>
+         <number label="">48</number>
+         <number>17.0</number>
+         <number tooltip="S55 17 (0   0%) KL: 0">5</number>
+         <number label="">44.7</number>
+         <number>6.9</number>
+         <number tooltip="CT6 6.90 (0   0%) KL: 0">5</number>
+         <number label="">57.5</number>
+         <number>18.0</number>
+         <number tooltip="KBT 18 (0   0%) KL: 0">5</number>
+         <number label="">47</number>
+         <number>7.0</number>
+         <number tooltip="LCS 7 (0   0%) KL: 5,000">5</number>
+         <number label="">47.9</number>
+         <number>4.5</number>
+         <number tooltip="TCR 4.50 (0   0%) KL: 0">5</number>
+         <number label="">42.1</number>
+         <number>9.2</number>
+         <number tooltip="DLR 9.20 (0   0%) KL: 0">5</number>
+         <number label="">51.9</number>
+         <number>11.8</number>
+         <number tooltip="MCF 11.80 (0   0%) KL: 100">5</number>
+         <number label="">47.1</number>
+         <number>3.7</number>
+         <number tooltip="PHC 3.70 (0   0%) KL: 0">5</number>
+         <number label="">44</number>
+         <number>7.9</number>
+         <number tooltip="TV4 7.90 (0   0%) KL: 0">5</number>
+         <number label="">56.9</number>
+         <number>4.0</number>
+         <number tooltip="VIT 4 (0   0%) KL: 0">5</number>
+         <number label="">44.1</number>
+         <number>5.4</number>
+         <number tooltip="PMS 5.40 (0   0%) KL: 0">5</number>
+         <number label="">57.4</number>
+         <number>2.1</number>
+         <number tooltip="DRH 2.10 (0   0%) KL: 1,050">5</number>
+         <number label="">43.3</number>
+         <number>3.7</number>
+         <number tooltip="SD4 3.70 (0   0%) KL: 0">5</number>
+         <number label="">44.5</number>
+         <number>2.7</number>
+         <number tooltip="SDD 2.70 (0   0%) KL: 17,200">5</number>
+         <number label="">42.2</number>
+         <number>4.7</number>
+         <number tooltip="HAS 4.70 (0   0%) KL: 0">5</number>
+         <number label="">55.8</number>
+         <number>2.9</number>
+         <number tooltip="ICF 2.90 (0   0%) KL: 450">5</number>
+         <number label="">49.7</number>
+         <number>4.6</number>
+         <number tooltip="SIC 4.60 (0   0%) KL: 2,500">5</number>
+         <number label="">53.8</number>
+         <number>9.2</number>
+         <number tooltip="MHL 9.20 (0   0%) KL: 0">5</number>
+         <number label="">55.7</number>
+         <number>11.8</number>
+         <number tooltip="PJC 11.80 (0   0%) KL: 0">5</number>
+         <number label="">45.5</number>
+         <number>9.3</number>
+         <number tooltip="HPB 9.30 (0   0%) KL: 0">5</number>
+         <number label="">46.1</number>
+         <number>4.5</number>
+         <number tooltip="VC7 4.50 (0   0%) KL: 0">5</number>
+         <number label="">44.4</number>
+         <number>1.1</number>
+         <number tooltip="SHN 1.10 (0   0%) KL: 956,800">5</number>
+         <number label="">41.5</number>
+         <number>3.6</number>
+         <number tooltip="BVG 3.60 (0   0%) KL: 4,000">5</number>
+         <number label="">57.1</number>
+         <number>2.6</number>
+         <number tooltip="SVS 2.60 (0   0%) KL: 9,600">5</number>
+         <number label="">43.7</number>
+         <number>3.9</number>
+         <number tooltip="NHA 3.90 (0   0%) KL: 0">5</number>
+         <number label="">45</number>
+         <number>4.7</number>
+         <number tooltip="MAX 4.70 (0   0%) KL: 54,600">5</number>
+         <number label="">53</number>
+         <number>3.1</number>
+         <number tooltip="MDG 3.10 (0   0%) KL: 8,020">5</number>
+         <number label="">49.4</number>
+         <number>11.0</number>
+         <number tooltip="B82 11 (0   0%) KL: 0">5</number>
+         <number label="">46.9</number>
+         <number>4.0</number>
+         <number tooltip="VNH 4 (0   0%) KL: 0">5</number>
+         <number label="">49.1</number>
+         <number>4.7</number>
+         <number tooltip="TSB 4.70 (0   0%) KL: 0">5</number>
+         <number label="">53.8</number>
+         <number>6.5</number>
+         <number tooltip="SEL 6.50 (0   0%) KL: 8,200">5</number>
+         <number label="">54</number>
+         <number>3.9</number>
+         <number tooltip="CTA 3.90 (0   0%) KL: 1,800">5</number>
+         <number label="">52.8</number>
+         <number>6.2</number>
+         <number tooltip="DC4 6.20 (0   0%) KL: 1,100">5</number>
+         <number label="">52.3</number>
+         <number>4.3</number>
+         <number tooltip="VE9 4.30 (0   0%) KL: 6,900">5</number>
+         <number label="">42</number>
+         <number>2.8</number>
+         <number tooltip="VCV 2.80 (0   0%) KL: 0">5</number>
+         <number label="">41.7</number>
+         <number>15.3</number>
+         <number tooltip="VTS 15.30 (0   0%) KL: 0">5</number>
+         <number label="">53.5</number>
+         <number>10.2</number>
+         <number tooltip="DIH 10.20 (0   0%) KL: 3,700">5</number>
+         <number label="">52.9</number>
+         <number>10.0</number>
+         <number tooltip="BED 10 (0   0%) KL: 2,900">5</number>
+         <number label="">47.9</number>
+         <number>3.0</number>
+         <number tooltip="DTA 3 (0   0%) KL: 30">5</number>
+         <number label="">56.5</number>
+         <number>3.7</number>
+         <number tooltip="SMA 3.70 (0   0%) KL: 112,060">5</number>
+         <number label="">50.8</number>
+         <number>14.9</number>
+         <number tooltip="CJC 14.90 (0   0%) KL: 0">5</number>
+         <number label="">51</number>
+         <number>7.8</number>
+         <number tooltip="BPC 7.80 (0   0%) KL: 1,000">5</number>
+         <number label="">54.8</number>
+         <number>7.2</number>
+         <number tooltip="VXB 7.20 (0   0%) KL: 0">5</number>
+         <number label="">53.2</number>
+         <number>8.8</number>
+         <number tooltip="BSC 8.80 (0   0%) KL: 0">5</number>
+         <number label="">54.5</number>
+         <number>9.6</number>
+         <number tooltip="SFN 9.60 (0   0%) KL: 0">5</number>
+         <number label="">56.1</number>
+         <number>3.6</number>
+         <number tooltip="HTL 3.60 (0   0%) KL: 0">5</number>
+         <number label="">50</number>
+         <number>7.2</number>
+         <number tooltip="BBS 7.20 (0   0%) KL: 0">5</number>
+         <number label="">45.1</number>
+         <number>18.5</number>
+         <number tooltip="NHC 18.50 (0   0%) KL: 0">5</number>
+         <number label="">50.8</number>
+         <number>4.8</number>
+         <number tooltip="V12 4.80 (0   0%) KL: 600">5</number>
+         <number label="">46.6</number>
+         <number>2.0</number>
+         <number tooltip="HHG 2 (0   0%) KL: 300">5</number>
+         <number label="">49.7</number>
+         <number>8.4</number>
+         <number tooltip="MMC 8.40 (0   0%) KL: 0">5</number>
+         <number label="">55.9</number>
+         <number>7.8</number>
+         <number tooltip="TV3 7.80 (0   0%) KL: 0">5</number>
+         <number label="">50</number>
+         <number>3.9</number>
+         <number tooltip="CMC 3.90 (0   0%) KL: 200">5</number>
+         <number label="">50.2</number>
+         <number>2.3</number>
+         <number tooltip="S96 2.30 (0   0%) KL: 1,600">5</number>
+         <number label="">54</number>
+         <number>11.4</number>
+         <number tooltip="DPC 11.40 (0   0%) KL: 0">5</number>
+         <number label="">52.8</number>
+         <number>2.8</number>
+         <number tooltip="SCL 2.80 (0   0%) KL: 1,000">5</number>
+         <number label="">54.3</number>
+         <number>6.1</number>
+         <number tooltip="L44 6.10 (0   0%) KL: 400">5</number>
+         <number label="">48</number>
+         <number>5.8</number>
+         <number tooltip="ILC 5.80 (0   0%) KL: 0">5</number>
+         <number label="">43.1</number>
+         <number>10.5</number>
+         <number tooltip="NPS 10.50 (0   0%) KL: 100">5</number>
+         <number label="">42.2</number>
+         <number>3.2</number>
+         <number tooltip="TXM 3.20 (0   0%) KL: 100">5</number>
+         <number label="">56.1</number>
+         <number>7.4</number>
+         <number tooltip="NIS 7.40 (0   0%) KL: 0">5</number>
+         <number label="">55.9</number>
+         <number>7.5</number>
+         <number tooltip="TSM 7.50 (0   0%) KL: 0">5</number>
+         <number label="">55.2</number>
+         <number>2.0</number>
+         <number tooltip="SDB 2 (0   0%) KL: 0">5</number>
+         <number label="">49.9</number>
+         <number>9.7</number>
+         <number tooltip="DNC 9.70 (0   0%) KL: 0">5</number>
+         <number label="">49.2</number>
+         <number>6.7</number>
+         <number tooltip="MIM 6.70 (0   0%) KL: 0">5</number>
+         <number label="">56.2</number>
+         <number>4.0</number>
+         <number tooltip="SSG 4 (0   0%) KL: 0">5</number>
+         <number label="">50.6</number>
+         <number>5.9</number>
+         <number tooltip="L35 5.90 (0   0%) KL: 0">5</number>
+         <number label="">43.7</number>
+         <number>3.4</number>
+         <number tooltip="TYA 3.40 (0   0%) KL: 8,370">5</number>
+         <number label="">50.1</number>
+         <number>2.2</number>
+         <number tooltip="TNT 2.20 (0   0%) KL: 79,050">5</number>
+         <number label="">57.5</number>
+         <number>3.8</number>
+         <number tooltip="TST 3.80 (0   0%) KL: 0">5</number>
+         <number label="">41.1</number>
+         <number>5.2</number>
+         <number tooltip="L43 5.20 (0   0%) KL: 0">5</number>
+         <number label="">41.8</number>
+         <number>3.3</number>
+         <number tooltip="MAC 3.30 (0   0%) KL: 2,100">5</number>
+         <number label="">49.4</number>
+         <number>7.9</number>
+         <number tooltip="HDA 7.90 (0   0%) KL: 0">5</number>
+         <number label="">55</number>
+         <number>4.0</number>
+         <number tooltip="MCO 4 (0   0%) KL: 0">5</number>
+         <number label="">54.1</number>
+         <number>3.3</number>
+         <number tooltip="LM7 3.30 (0   0%) KL: 0">5</number>
+         <number label="">44.9</number>
+         <number>7.5</number>
+         <number tooltip="SDC 7.50 (0   0%) KL: 0">5</number>
+         <number label="">52.1</number>
+         <number>10.7</number>
+         <number tooltip="SDN 10.70 (0   0%) KL: 0">5</number>
+         <number label="">45</number>
+         <number>3.2</number>
+         <number tooltip="SD1 3.20 (0   0%) KL: 0">5</number>
+         <number label="">49.1</number>
+         <number>5.3</number>
+         <number tooltip="KST 5.30 (0   0%) KL: 0">5</number>
+         <number label="">43.8</number>
+         <number>12.0</number>
+         <number tooltip="SAP 12 (0   0%) KL: 0">5</number>
+         <number label="">50.6</number>
+         <number>15.0</number>
+         <number tooltip="DAC 15 (0   0%) KL: 0">5</number>
+         <number label="">57.9</number>
+         <number>8.4</number>
+         <number tooltip="SDE 8.40 (0   0%) KL: 0">5</number>
+         <number label="">58.8</number>
+         <number>2.9</number>
+         <number tooltip="S12 2.90 (0   0%) KL: 0">5</number>
+         <number label="">41.5</number>
+         <number>0.9</number>
+         <number tooltip="NVC 0.90 (0   0%) KL: 34,600">5</number>
+         <number label="">49.1</number>
+         <number>11.8</number>
+         <number tooltip="NGC 11.80 (0   0%) KL: 0">5</number>
+         <number label="">53.7</number>
+         <number>4.7</number>
+         <number tooltip="BXH 4.70 (0   0%) KL: 0">5</number>
+         <number label="">53.4</number>
+         <number>4.9</number>
+         <number tooltip="L14 4.90 (0   0%) KL: 0">5</number>
+         <number label="">44.3</number>
+         <number>2.5</number>
+         <number tooltip="VPC 2.50 (0   0%) KL: 1,400">5</number>
+         <number label="">42.6</number>
+         <number>2.8</number>
+         <number tooltip="BLF 2.80 (0   0%) KL: 0">5</number>
+         <number label="">55.5</number>
+         <number>9.1</number>
+         <number tooltip="HBD 9.10 (0   0%) KL: 0">5</number>
+         <number label="">45.5</number>
+         <number>5.5</number>
+         <number tooltip="DC2 5.50 (0   0%) KL: 0">5</number>
+         <number label="">57.8</number>
+         <number>8.6</number>
+         <number tooltip="TBX 8.60 (0   0%) KL: 0">5</number>
+         <number label="">52.4</number>
+         <number>2.3</number>
+         <number tooltip="KHL 2.30 (0   0%) KL: 400">5</number>
+         <number label="">41.7</number>
+         <number>2.1</number>
+         <number tooltip="SRB 2.10 (0   0%) KL: 13,800">5</number>
+         <number label="">48.7</number>
+         <number>7.5</number>
+         <number tooltip="V21 7.50 (0   0%) KL: 0">5</number>
+         <number label="">42.5</number>
+         <number>2.1</number>
+         <number tooltip="TJC 2.10 (0   0%) KL: 100">5</number>
+         <number label="">56.9</number>
+         <number>2.5</number>
+         <number tooltip="SJM 2.50 (0   0%) KL: 0">5</number>
+         <number label="">58.4</number>
+         <number>2.7</number>
+         <number tooltip="VTC 2.70 (0   0%) KL: 0">5</number>
+         <number label="">45.3</number>
+         <number>5.4</number>
+         <number tooltip="HBE 5.40 (0   0%) KL: 0">5</number>
+         <number label="">48</number>
+         <number>8.6</number>
+         <number tooltip="QST 8.60 (0   0%) KL: 0">5</number>
+         <number label="">56.8</number>
+         <number>2.6</number>
+         <number tooltip="CTM 2.60 (0   0%) KL: 1,500">5</number>
+         <number label="">45.5</number>
+         <number>5.6</number>
+         <number tooltip="TPH 5.60 (0   0%) KL: 0">5</number>
+         <number label="">48.9</number>
+         <number>3.0</number>
+         <number tooltip="SHC 3 (0   0%) KL: 0">5</number>
+         <number label="">47.2</number>
+         <number>10.5</number>
+         <number tooltip="HEV 10.50 (0   0%) KL: 0">5</number>
+         <number label="">41.4</number>
+         <number>1.5</number>
+         <number tooltip="TLT 1.50 (0   0%) KL: 200">5</number>
+         <number label="">43.9</number>
+         <number>7.7</number>
+         <number tooltip="PTM 7.70 (0   0%) KL: 0">5</number>
+         <number label="">51.2</number>
+         <number>7.5</number>
+         <number tooltip="LCD 7.50 (0   0%) KL: 0">5</number>
+         <number label="">52.5</number>
+         <number>8.9</number>
+         <number tooltip="VLA 8.90 (0   0%) KL: 0">5</number>
+         <number label="">47.9</number>
+         <number>4.8</number>
+         <number tooltip="DTC 4.80 (0   0%) KL: 0">5</number>
+         <number label="">41.3</number>
+         <number>4.7</number>
+         <number tooltip="PPE 4.70 (0   0%) KL: 0">5</number>
+         <number label="">55.4</number>
+         <number>5.1</number>
+         <number tooltip="HTP 5.10 (0   0%) KL: 0">5</number>
+         <number label="">57.5</number>
+         <number>8.3</number>
+         <number tooltip="LBE 8.30 (0   0%) KL: 0">5</number>
+         <number label="">58.3</number>
+         <number>8.7</number>
+         <number tooltip="HLY 8.70 (0   0%) KL: 0">5</number>
+         <number label="">55.1</number>
+         <number>6.9</number>
+         <number tooltip="PRC 6.90 (0   0%) KL: 0">5</number>
+         <number label="">58.1</number>
+         <number>7.2</number>
+         <number tooltip="BDB 7.20 (0   0%) KL: 0">5</number>
+         <number label="">48.3</number>
+         <number>1.7</number>
+         <number tooltip="CIC 1.70 (0   0%) KL: 5,500">5</number>
+         <number label="">49.8</number>
+         <number>3.9</number>
+         <number tooltip="CTV 3.90 (0   0%) KL: 0">5</number>
+         <number label="">52.4</number>
+         <number>3.7</number>
+         <number tooltip="INC 3.70 (0   0%) KL: 0">5</number>
+         <number label="">51.7</number>
+         <number>0.7</number>
+         <number tooltip="VES 0.70 (0   0%) KL: 20">5</number>
+         <number label="">51.5</number>
+         <number>4.8</number>
+         <number tooltip="HST 4.80 (0   0%) KL: 0">5</number>
+         <number label="">48.8</number>
+         <number>1.8</number>
+         <number tooltip="VCH 1.80 (0   0%) KL: 0">5</number>
+         <number label="">56.3</number>
+         <number>3.6</number>
+         <number tooltip="SCC 3.60 (0   0%) KL: 0">5</number>
+         <number label="">50.3</number>
+         <number>5.3</number>
+         <number tooltip="VE3 5.30 (0   0%) KL: 0">5</number>
+         <number label="">42.2</number>
+         <number>6.3</number>
+         <number tooltip="BST 6.30 (0   0%) KL: 0">5</number>
+         <number label="">57</number>
+         <number>0.7</number>
+         <number tooltip="VSG 0.70 (0   0%) KL: 3,000">5</number>
+         <number label="">58</number>
+         <number>5.8</number>
+         <number tooltip="MKV 5.80 (0   0%) KL: 800">5</number>
+         <number label="">43.8</number>
+         <number>6.4</number>
+         <number tooltip="BHV 6.40 (0   0%) KL: 0">5</number>
+         <number label="">54.9</number>
+         <number>5.3</number>
+         <number tooltip="VAT 5.30 (0   0%) KL: 0">5</number>
+         <number label="">57.3</number>
+         <number>4.0</number>
+         <number tooltip="VIE 4 (0   0%) KL: 0">5</number>
+         <number label="">48.1</number>
+         <number>5.7</number>
+         <number tooltip="CID 5.70 (0   0%) KL: 0">5</number>
+         <number label="">43.9</number>
+         <number>3.3</number>
+         <number tooltip="CX8 3.30 (0   0%) KL: 0">5</number>
+         <number label="">55.1</number>
+         <number>2.0</number>
+         <number tooltip="KTT 2 (0   0%) KL: 7,700">5</number>
+         <number label="">52.6</number>
+         <number>4.1</number>
+         <number tooltip="PIV 4.10 (0   0%) KL: 0">5</number>
+         <number label="">51.8</number>
+         <number>3.2</number>
+         <number tooltip="ALV 3.20 (0   0%) KL: 0">5</number>
+         <number label="">43.3</number>
+         <number>2.3</number>
+         <number tooltip="CYC 2.30 (0   0%) KL: 0">5</number>
+         <number label="">53.1</number>
+         <number>3.0</number>
+         <number tooltip="QCC 3 (0   0%) KL: 2,100">5</number>
+         <number label="">54.7</number>
+         <number>2.2</number>
+         <number tooltip="SRA 2.20 (0   0%) KL: 2,500">5</number>
+         <number label="">53.6</number>
+         <number>2.2</number>
+         <number tooltip="S27 2.20 (0   0%) KL: 0">5</number>
+         <number label="">46.5</number>
+         <number>30.5</number>
+         <number tooltip="SLS 30.50 (0   0%) KL: 0">5</number>
+         <number label="">43.5</number>
+         <number>10.2</number>
+         <number tooltip="VE4 10.20 (0   0%) KL: 0">5</number>
+         <number label="">53.9</number>
+         <number>15.2</number>
+         <number tooltip="ITQ 15.20 (0   0%) KL: 17,100">5</number>
+         <number label="">42.9</number>
+         <number>6.5</number>
+         <number tooltip="PID 6.50 (0   0%) KL: 0">5</number>
+      </row>
+      <row>
+         <string>Tang Gia (112)</string>
+         <number bevel="data" label="BVH">65.6</number>
+         <number>27.8</number>
+         <number tooltip="BVH 27.80 (0.10   0.40%) KL: 378,170">28.8349</number>
+         <number bevel="data" label="DPM">61</number>
+         <number>35.0</number>
+         <number tooltip="DPM 35 (0.10   0.30%) KL: 165,510">20.2879</number>
+         <number bevel="data" label="REE">72.2</number>
+         <number>14.9</number>
+         <number tooltip="REE 14.90 (0.10   0.70%) KL: 440,810">5.3578</number>
+         <number label="">73.7</number>
+         <number>27.0</number>
+         <number tooltip="PHR 27 (0.10   0.40%) KL: 50,580">5</number>
+         <number label="">70.8</number>
+         <number>52.0</number>
+         <number tooltip="DPR 52 (1.50   3%) KL: 20">5</number>
+         <number label="">72.7</number>
+         <number>20.0</number>
+         <number tooltip="SJS 20 (0.50   2.60%) KL: 310">5</number>
+         <number label="">64.6</number>
+         <number>24.7</number>
+         <number tooltip="CII 24.70 (0.50   2.10%) KL: 494,050">5</number>
+         <number label="">74.1</number>
+         <number>16.8</number>
+         <number tooltip="GMD 16.80 (0.20   1.20%) KL: 198,510">5</number>
+         <number label="">69.3</number>
+         <number>18.0</number>
+         <number tooltip="HSG 18 (0.30   1.70%) KL: 294,640">5</number>
+         <number label="">62.4</number>
+         <number>27.3</number>
+         <number tooltip="LAS 27.30 (0.10   0.40%) KL: 23,100">5</number>
+         <number label="">64.7</number>
+         <number>22.4</number>
+         <number tooltip="HVG 22.40 (0.40   1.80%) KL: 2,560">5</number>
+         <number label="">74.2</number>
+         <number>14.8</number>
+         <number tooltip="VNR 14.80 (0.40   2.80%) KL: 300">5</number>
+         <number label="">73.6</number>
+         <number>32.0</number>
+         <number tooltip="NTP 32 (0.50   1.60%) KL: 11,900">5</number>
+         <number label="">61.6</number>
+         <number>39.8</number>
+         <number tooltip="TRC 39.80 (0.20   0.50%) KL: 2,120">5</number>
+         <number label="">63.3</number>
+         <number>15.0</number>
+         <number tooltip="BCI 15 (0.40   2.70%) KL: 4,200">5</number>
+         <number label="">69</number>
+         <number>23.3</number>
+         <number tooltip="DBC 23.30 (0.40   1.70%) KL: 69,000">5</number>
+         <number label="">70.1</number>
+         <number>24.9</number>
+         <number tooltip="ELC 24.90 (0.30   1.20%) KL: 13,500">5</number>
+         <number label="">71.8</number>
+         <number>9.0</number>
+         <number tooltip="VFMVF1 9 (0.10   1.10%) KL: 156,040">5</number>
+         <number label="">75.8</number>
+         <number>11.5</number>
+         <number tooltip="PET 11.50 (0.20   1.80%) KL: 278,370">5</number>
+         <number label="">61.7</number>
+         <number>11.5</number>
+         <number tooltip="TMP 11.50 (0.40   3.60%) KL: 440">5</number>
+         <number label="">68.4</number>
+         <number>32.5</number>
+         <number tooltip="VSC 32.50 (0.60   1.90%) KL: 36,660">5</number>
+         <number label="">69.5</number>
+         <number>63.5</number>
+         <number tooltip="AGD 63.50 (2   3.30%) KL: 380">5</number>
+         <number label="">66.1</number>
+         <number>41.5</number>
+         <number tooltip="VFG 41.50 (1.20   3%) KL: 40">5</number>
+         <number label="">70.7</number>
+         <number>12.1</number>
+         <number tooltip="HBC 12.10 (0.10   0.80%) KL: 372,040">5</number>
+         <number label="">64</number>
+         <number>23.0</number>
+         <number tooltip="CNG 23 (0.10   0.40%) KL: 16,050">5</number>
+         <number label="">67.4</number>
+         <number>19.0</number>
+         <number tooltip="TIX 19 (0.50   2.70%) KL: 1,210">5</number>
+         <number label="">69.5</number>
+         <number>19.5</number>
+         <number tooltip="TMS 19.50 (0.50   2.60%) KL: 10">5</number>
+         <number label="">69.5</number>
+         <number>6.4</number>
+         <number tooltip="ANV 6.40 (0.20   3.20%) KL: 9,540">5</number>
+         <number label="">75.2</number>
+         <number>28.5</number>
+         <number tooltip="SPM 28.50 (0.50   1.80%) KL: 3,200">5</number>
+         <number label="">71.3</number>
+         <number>20.4</number>
+         <number tooltip="TLG 20.40 (0.50   2.50%) KL: 100">5</number>
+         <number label="">64.7</number>
+         <number>20.0</number>
+         <number tooltip="HAI 20 (0.10   0.50%) KL: 50">5</number>
+         <number label="">76</number>
+         <number>13.5</number>
+         <number tooltip="LHG 13.50 (0.30   2.30%) KL: 10">5</number>
+         <number label="">72.4</number>
+         <number>20.8</number>
+         <number tooltip="DHM 20.80 (0.10   0.50%) KL: 101,610">5</number>
+         <number label="">72.8</number>
+         <number>8.4</number>
+         <number tooltip="PXS 8.40 (0.10   1.20%) KL: 138,360">5</number>
+         <number label="">65.9</number>
+         <number>35.0</number>
+         <number tooltip="NNC 35 (0.20   0.60%) KL: 910">5</number>
+         <number label="">78.3</number>
+         <number>28.5</number>
+         <number tooltip="LIX 28.50 (0.30   1.10%) KL: 250">5</number>
+         <number label="">77.8</number>
+         <number>23.0</number>
+         <number tooltip="SEB 23 (0.30   1.30%) KL: 100">5</number>
+         <number label="">64.1</number>
+         <number>4.3</number>
+         <number tooltip="CMG 4.30 (0.10   2.40%) KL: 20,030">5</number>
+         <number label="">70.1</number>
+         <number>6.2</number>
+         <number tooltip="TCM 6.20 (0.20   3.30%) KL: 320,370">5</number>
+         <number label="">77.6</number>
+         <number>12.2</number>
+         <number tooltip="SDT 12.20 (0.70   6.10%) KL: 71,800">5</number>
+         <number label="">75.1</number>
+         <number>24.2</number>
+         <number tooltip="ACC 24.20 (0.20   0.80%) KL: 1,100">5</number>
+         <number label="">77.7</number>
+         <number>4.2</number>
+         <number tooltip="TLH 4.20 (0.10   2.40%) KL: 69,940">5</number>
+         <number label="">76.7</number>
+         <number>9.7</number>
+         <number tooltip="TIC 9.70 (0.20   2.10%) KL: 3,530">5</number>
+         <number label="">66.8</number>
+         <number>29.8</number>
+         <number tooltip="DXP 29.80 (0.60   2.10%) KL: 17,500">5</number>
+         <number label="">75</number>
+         <number>19.7</number>
+         <number tooltip="PAN 19.70 (0.10   0.50%) KL: 25,000">5</number>
+         <number label="">61.8</number>
+         <number>9.1</number>
+         <number tooltip="SVC 9.10 (0.10   1.10%) KL: 9,100">5</number>
+         <number label="">71.4</number>
+         <number>7.4</number>
+         <number tooltip="GSP 7.40 (0.10   1.40%) KL: 84,700">5</number>
+         <number label="">65.3</number>
+         <number>25.7</number>
+         <number tooltip="SRF 25.70 (0.10   0.40%) KL: 3,530">5</number>
+         <number label="">67.2</number>
+         <number>13.3</number>
+         <number tooltip="SRC 13.30 (0.50   3.90%) KL: 393,480">5</number>
+         <number label="">73.4</number>
+         <number>8.3</number>
+         <number tooltip="CTX 8.30 (0.40   5.10%) KL: 100">5</number>
+         <number label="">70</number>
+         <number>6.2</number>
+         <number tooltip="BT6 6.20 (0.20   3.30%) KL: 10">5</number>
+         <number label="">77.3</number>
+         <number>3.4</number>
+         <number tooltip="PSI 3.40 (0.10   3%) KL: 10,600">5</number>
+         <number label="">72.3</number>
+         <number>21.7</number>
+         <number tooltip="BTT 21.70 (0.10   0.50%) KL: 1,660">5</number>
+         <number label="">77.4</number>
+         <number>17.0</number>
+         <number tooltip="CMV 17 (0.20   1.20%) KL: 1,460">5</number>
+         <number label="">78.3</number>
+         <number>6.5</number>
+         <number tooltip="SD9 6.50 (0.10   1.60%) KL: 32,700">5</number>
+         <number label="">67</number>
+         <number>13.6</number>
+         <number tooltip="ST8 13.60 (0.10   0.70%) KL: 37,710">5</number>
+         <number label="">72</number>
+         <number>9.9</number>
+         <number tooltip="TDN 9.90 (0.10   1%) KL: 300">5</number>
+         <number label="">64.1</number>
+         <number>6.1</number>
+         <number tooltip="VFMVFA 6.10 (0.10   1.70%) KL: 191,900">5</number>
+         <number label="">78.9</number>
+         <number>16.9</number>
+         <number tooltip="SFI 16.90 (0.40   2.40%) KL: 90">5</number>
+         <number label="">64</number>
+         <number>6.1</number>
+         <number tooltip="AVF 6.10 (0.10   1.70%) KL: 111,660">5</number>
+         <number label="">77.5</number>
+         <number>6.7</number>
+         <number tooltip="RIC 6.70 (0.10   1.50%) KL: 10">5</number>
+         <number label="">76.8</number>
+         <number>8.6</number>
+         <number tooltip="EID 8.60 (0.10   1.20%) KL: 9,500">5</number>
+         <number label="">64.2</number>
+         <number>12.2</number>
+         <number tooltip="HTV 12.20 (0.10   0.80%) KL: 3,700">5</number>
+         <number label="">61.2</number>
+         <number>5.8</number>
+         <number tooltip="QNC 5.80 (0.20   3.60%) KL: 1,600">5</number>
+         <number label="">73.5</number>
+         <number>12.9</number>
+         <number tooltip="TMC 12.90 (0.60   4.90%) KL: 1,300">5</number>
+         <number label="">66.5</number>
+         <number>5.8</number>
+         <number tooltip="VFR 5.80 (0.10   1.80%) KL: 100">5</number>
+         <number label="">68.4</number>
+         <number>8.8</number>
+         <number tooltip="TIE 8.80 (0.10   1.10%) KL: 2,490">5</number>
+         <number label="">68.7</number>
+         <number>6.2</number>
+         <number tooltip="TNG 6.20 (0.10   1.60%) KL: 16,400">5</number>
+         <number label="">65.1</number>
+         <number>10.3</number>
+         <number tooltip="FMC 10.30 (0.30   3%) KL: 10">5</number>
+         <number label="">68.2</number>
+         <number>10.2</number>
+         <number tooltip="SED 10.20 (0.20   2%) KL: 16,400">5</number>
+         <number label="">64.4</number>
+         <number>6.0</number>
+         <number tooltip="PIT 6 (0.10   1.70%) KL: 5,920">5</number>
+         <number label="">75.3</number>
+         <number>15.4</number>
+         <number tooltip="NLC 15.40 (0.60   4.10%) KL: 200">5</number>
+         <number label="">67.3</number>
+         <number>6.2</number>
+         <number tooltip="SD2 6.20 (0.10   1.60%) KL: 23,700">5</number>
+         <number label="">77.8</number>
+         <number>5.6</number>
+         <number tooltip="VKC 5.60 (0.10   1.80%) KL: 343,400">5</number>
+         <number label="">64.8</number>
+         <number>20.9</number>
+         <number tooltip="SJ1 20.90 (0.90   4.50%) KL: 100">5</number>
+         <number label="">62.4</number>
+         <number>8.8</number>
+         <number tooltip="UIC 8.80 (0.10   1.10%) KL: 200">5</number>
+         <number label="">64.5</number>
+         <number>7.4</number>
+         <number tooltip="UNI 7.40 (0.30   4.20%) KL: 93,700">5</number>
+         <number label="">61.9</number>
+         <number>7.4</number>
+         <number tooltip="PJT 7.40 (0.10   1.40%) KL: 17,000">5</number>
+         <number label="">77.2</number>
+         <number>7.4</number>
+         <number tooltip="SJE 7.40 (0.10   1.40%) KL: 800">5</number>
+         <number label="">67.5</number>
+         <number>26.0</number>
+         <number tooltip="LDP 26 (0.50   2%) KL: 600">5</number>
+         <number label="">67.1</number>
+         <number>10.7</number>
+         <number tooltip="MIC 10.70 (0.30   2.90%) KL: 100">5</number>
+         <number label="">78.5</number>
+         <number>6.4</number>
+         <number tooltip="L10 6.40 (0.10   1.60%) KL: 830">5</number>
+         <number label="">65.2</number>
+         <number>12.1</number>
+         <number tooltip="SNG 12.10 (0.30   2.50%) KL: 11,400">5</number>
+         <number label="">76.4</number>
+         <number>6.2</number>
+         <number tooltip="S74 6.20 (0.20   3.30%) KL: 3,400">5</number>
+         <number label="">63.7</number>
+         <number>7.5</number>
+         <number tooltip="L61 7.50 (0.20   2.70%) KL: 3,100">5</number>
+         <number label="">64.2</number>
+         <number>3.2</number>
+         <number tooltip="TIG 3.20 (0.10   3.20%) KL: 100">5</number>
+         <number label="">69.7</number>
+         <number>5.0</number>
+         <number tooltip="TKC 5 (0.10   2%) KL: 100">5</number>
+         <number label="">65.2</number>
+         <number>5.8</number>
+         <number tooltip="CTC 5.80 (0.10   1.80%) KL: 500">5</number>
+         <number label="">66.2</number>
+         <number>8.6</number>
+         <number tooltip="STC 8.60 (0.10   1.20%) KL: 1,000">5</number>
+         <number label="">64</number>
+         <number>8.3</number>
+         <number tooltip="VCC 8.30 (0.30   3.80%) KL: 100">5</number>
+         <number label="">76.9</number>
+         <number>8.7</number>
+         <number tooltip="DAD 8.70 (0.10   1.20%) KL: 5,200">5</number>
+         <number label="">67.1</number>
+         <number>16.4</number>
+         <number tooltip="ARM 16.40 (0.30   1.90%) KL: 100">5</number>
+         <number label="">68.4</number>
+         <number>5.2</number>
+         <number tooltip="CMT 5.20 (0.10   2%) KL: 400">5</number>
+         <number label="">66</number>
+         <number>11.5</number>
+         <number tooltip="D11 11.50 (0.30   2.70%) KL: 100">5</number>
+         <number label="">78.2</number>
+         <number>10.6</number>
+         <number tooltip="TPP 10.60 (0.50   5%) KL: 54,700">5</number>
+         <number label="">63.3</number>
+         <number>24.5</number>
+         <number tooltip="CAP 24.50 (1.40   6.10%) KL: 500">5</number>
+         <number label="">63</number>
+         <number>7.2</number>
+         <number tooltip="ONE 7.20 (0.20   2.90%) KL: 100">5</number>
+         <number label="">66.7</number>
+         <number>8.5</number>
+         <number tooltip="SGD 8.50 (0.10   1.20%) KL: 2,600">5</number>
+         <number label="">64.1</number>
+         <number>4.7</number>
+         <number tooltip="PPG 4.70 (0.10   2.20%) KL: 1,200">5</number>
+         <number label="">77.3</number>
+         <number>6.2</number>
+         <number tooltip="PTS 6.20 (0.30   5.10%) KL: 100">5</number>
+         <number label="">77.5</number>
+         <number>13.5</number>
+         <number tooltip="DNM 13.50 (0.30   2.30%) KL: 1,500">5</number>
+         <number label="">68.2</number>
+         <number>5.3</number>
+         <number tooltip="TMX 5.30 (0.10   1.90%) KL: 3,500">5</number>
+         <number label="">63.6</number>
+         <number>6.9</number>
+         <number tooltip="SKS 6.90 (0.20   3%) KL: 200">5</number>
+         <number label="">70.3</number>
+         <number>10.4</number>
+         <number tooltip="VCM 10.40 (0.50   5.10%) KL: 1,200">5</number>
+         <number label="">68.8</number>
+         <number>4.3</number>
+         <number tooltip="CTN 4.30 (0.10   2.40%) KL: 13,400">5</number>
+         <number label="">62.9</number>
+         <number>4.8</number>
+         <number tooltip="TTC 4.80 (0.10   2.10%) KL: 25,800">5</number>
+         <number label="">72.2</number>
+         <number>4.1</number>
+         <number tooltip="MEC 4.10 (0.10   2.50%) KL: 3,500">5</number>
+         <number label="">64</number>
+         <number>9.9</number>
+         <number tooltip="CMS 9.90 (0.10   1%) KL: 21,400">5</number>
+         <number label="">75.5</number>
+         <number>4.9</number>
+         <number tooltip="DID 4.90 (0.10   2.10%) KL: 10,000">5</number>
+         <number label="">68.5</number>
+         <number>10.4</number>
+         <number tooltip="ECI 10.40 (0.30   3%) KL: 2,000">5</number>
+         <number label="">67.7</number>
+         <number>4.7</number>
+         <number tooltip="SMT 4.70 (0.20   4.40%) KL: 400">5</number>
+         <number label="">61.2</number>
+         <number>6.2</number>
+         <number tooltip="HCT 6.20 (0.30   5.10%) KL: 100">5</number>
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+      </row>
+      <row>
+         <string>Tang Tran (56)</string>
+         <number bevel="data" label="VCF">92.2</number>
+         <number>149.0</number>
+         <number tooltip="VCF 149 (7   4.90%) KL: 10">5.7737</number>
+         <number label="">87.6</number>
+         <number>29.6</number>
+         <number tooltip="MPC 29.60 (1.40   5%) KL: 250">5</number>
+         <number label="">82.7</number>
+         <number>39.2</number>
+         <number tooltip="HRC 39.20 (1.80   4.80%) KL: 2,330">5</number>
+         <number label="">90</number>
+         <number>25.9</number>
+         <number tooltip="FDC 25.90 (1.20   4.90%) KL: 8,710">5</number>
+         <number label="">95.1</number>
+         <number>10.3</number>
+         <number tooltip="PGC 10.30 (0.40   4%) KL: 648,240">5</number>
+         <number label="">88.4</number>
+         <number>4.0</number>
+         <number tooltip="PVR 4 (0.20   5.30%) KL: 100">5</number>
+         <number label="">81.6</number>
+         <number>6.6</number>
+         <number tooltip="HTI 6.60 (0.30   4.80%) KL: 1,850">5</number>
+         <number label="">95.6</number>
+         <number>3.8</number>
+         <number tooltip="UDC 3.80 (0.10   2.70%) KL: 232,290">5</number>
+         <number label="">94.5</number>
+         <number>3.5</number>
+         <number tooltip="DLG 3.50 (0.10   2.90%) KL: 354,080">5</number>
+         <number label="">93.2</number>
+         <number>15.5</number>
+         <number tooltip="TNA 15.50 (0.70   4.70%) KL: 30">5</number>
+         <number label="">94.8</number>
+         <number>25.2</number>
+         <number tooltip="DHT 25.20 (1.60   6.80%) KL: 200">5</number>
+         <number label="">89.7</number>
+         <number>14.9</number>
+         <number tooltip="SBC 14.90 (0.70   4.90%) KL: 26,740">5</number>
+         <number label="">82</number>
+         <number>5.5</number>
+         <number tooltip="VC9 5.50 (0.30   5.80%) KL: 20,100">5</number>
+         <number label="">89.7</number>
+         <number>12.1</number>
+         <number tooltip="VHL 12.10 (0.70   6.10%) KL: 100">5</number>
+         <number label="">91.9</number>
+         <number>3.8</number>
+         <number tooltip="CCL 3.80 (0.10   2.70%) KL: 4,580">5</number>
+         <number label="">94.9</number>
+         <number>7.9</number>
+         <number tooltip="VTB 7.90 (0.30   3.90%) KL: 550">5</number>
+         <number label="">85.2</number>
+         <number>9.6</number>
+         <number tooltip="SD5 9.60 (0.60   6.70%) KL: 7,800">5</number>
+         <number label="">85.9</number>
+         <number>4.7</number>
+         <number tooltip="BGM 4.70 (0.20   4.40%) KL: 249,550">5</number>
+         <number label="">91</number>
+         <number>2.6</number>
+         <number tooltip="PHS 2.60 (0.10   4%) KL: 8,700">5</number>
+         <number label="">83.7</number>
+         <number>2.9</number>
+         <number tooltip="VHG 2.90 (0.10   3.60%) KL: 102,370">5</number>
+         <number label="">96.1</number>
+         <number>2.7</number>
+         <number tooltip="VID 2.70 (0.10   3.80%) KL: 48,960">5</number>
+         <number label="">84.8</number>
+         <number>2.5</number>
+         <number tooltip="DCT 2.50 (0.10   4.20%) KL: 20,920">5</number>
+         <number label="">85.1</number>
+         <number>5.2</number>
+         <number tooltip="SPP 5.20 (0.30   6.10%) KL: 800">5</number>
+         <number label="">92.4</number>
+         <number>3.1</number>
+         <number tooltip="LGL 3.10 (0.10   3.30%) KL: 790">5</number>
+         <number label="">97.5</number>
+         <number>1.6</number>
+         <number tooltip="VIG 1.60 (0.10   6.70%) KL: 17,900">5</number>
+         <number label="">88.1</number>
+         <number>4.0</number>
+         <number tooltip="ITD 4 (0.10   2.60%) KL: 30,230">5</number>
+         <number label="">91.2</number>
+         <number>4.0</number>
+         <number tooltip="PPI 4 (0.10   2.60%) KL: 3,520">5</number>
+         <number label="">96.3</number>
+         <number>6.2</number>
+         <number tooltip="VC6 6.20 (0.40   6.90%) KL: 1,100">5</number>
+         <number label="">81.9</number>
+         <number>4.6</number>
+         <number tooltip="PTC 4.60 (0.20   4.50%) KL: 27,610">5</number>
+         <number label="">95.3</number>
+         <number>4.0</number>
+         <number tooltip="CLG 4 (0.10   2.60%) KL: 64,860">5</number>
+         <number label="">95.1</number>
+         <number>2.9</number>
+         <number tooltip="CIG 2.90 (0.10   3.60%) KL: 50">5</number>
+         <number label="">91.9</number>
+         <number>3.8</number>
+         <number tooltip="PNC 3.80 (0.10   2.70%) KL: 1,110">5</number>
+         <number label="">89.7</number>
+         <number>3.8</number>
+         <number tooltip="S99 3.80 (0.20   5.60%) KL: 14,600">5</number>
+         <number label="">81.8</number>
+         <number>8.4</number>
+         <number tooltip="SJC 8.40 (0.50   6.30%) KL: 100">5</number>
+         <number label="">98.9</number>
+         <number>2.7</number>
+         <number tooltip="MHC 2.70 (0.10   3.80%) KL: 21,220">5</number>
+         <number label="">92.6</number>
+         <number>2.2</number>
+         <number tooltip="PXM 2.20 (0.10   4.80%) KL: 11,770">5</number>
+         <number label="">97.1</number>
+         <number>7.7</number>
+         <number tooltip="CKV 7.70 (0.50   6.90%) KL: 200">5</number>
+         <number label="">91.2</number>
+         <number>6.6</number>
+         <number tooltip="QHD 6.60 (0.40   6.50%) KL: 100">5</number>
+         <number label="">87.1</number>
+         <number>3.1</number>
+         <number tooltip="STT 3.10 (0.10   3.30%) KL: 10">5</number>
+         <number label="">89.7</number>
+         <number>2.0</number>
+         <number tooltip="AME 2 (0.10   5.30%) KL: 100">5</number>
+         <number label="">97.1</number>
+         <number>3.4</number>
+         <number tooltip="MNC 3.40 (0.20   6.20%) KL: 500">5</number>
+         <number label="">92</number>
+         <number>1.8</number>
+         <number tooltip="TLC 1.80 (0.10   5.90%) KL: 3,700">5</number>
+         <number label="">97.2</number>
+         <number>8.0</number>
+         <number tooltip="C92 8 (0.50   6.70%) KL: 500">5</number>
+         <number label="">82.5</number>
+         <number>5.8</number>
+         <number tooltip="CVN 5.80 (0.30   5.50%) KL: 151,600">5</number>
+         <number label="">91.4</number>
+         <number>3.1</number>
+         <number tooltip="VHH 3.10 (0.20   6.90%) KL: 100">5</number>
+         <number label="">94.6</number>
+         <number>1.6</number>
+         <number tooltip="KSD 1.60 (0.10   6.70%) KL: 568,500">5</number>
+         <number label="">95.2</number>
+         <number>9.0</number>
+         <number tooltip="VE2 9 (0.50   5.90%) KL: 100">5</number>
+         <number label="">84.3</number>
+         <number>5.9</number>
+         <number tooltip="DHI 5.90 (0.30   5.40%) KL: 100">5</number>
+         <number label="">94</number>
+         <number>2.6</number>
+         <number tooltip="LM3 2.60 (0.10   4%) KL: 100">5</number>
+         <number label="">96.4</number>
+         <number>2.1</number>
+         <number tooltip="BHC 2.10 (0.10   5%) KL: 100">5</number>
+         <number label="">92.9</number>
+         <number>1.5</number>
+         <number tooltip="SDJ 1.50 (0.10   7.10%) KL: 600">5</number>
+         <number label="">93.1</number>
+         <number>2.9</number>
+         <number tooltip="AMV 2.90 (0.10   3.60%) KL: 2,000">5</number>
+         <number label="">87.6</number>
+         <number>1.6</number>
+         <number tooltip="HHL 1.60 (0.10   6.70%) KL: 5,400">5</number>
+         <number label="">83.4</number>
+         <number>1.4</number>
+         <number tooltip="MCL 1.40 (0.10   7.70%) KL: 200">5</number>
+         <number label="">86.5</number>
+         <number>2.9</number>
+         <number tooltip="DST 2.90 (0.10   3.60%) KL: 100">5</number>
+         <number label="">93.7</number>
+         <number>12.3</number>
+         <number tooltip="SPI 12.30 (0.80   7%) KL: 8,500">5</number>
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+         <null />
+      </row>
+   </chart_data>
+
+   <chart_grid_h alpha="15" color="666666" thickness="1" type="solid" />
+
+   <chart_grid_v alpha="15" color="666666" thickness="1" type="solid" />
+
+   <chart_label shadow="low" alpha="100" size="10" position="center" color="FFFFFF" />
+
+   <chart_guide vertical="false" horizontal="true" thickness="1" color="ffffff" alpha="60" type="dashed" snap_h="true" snap_v="true" connect="true" radius="5" fill_alpha="75" fill_color="ffffff" line_thickness="0" text_h_alpha="90" text_v_alpha="90" text_color="0" background_color="62A9FF" size="12" />
+   <!--Vung ve chart-->
+   <chart_rect glow="glow1" bevel="bevel2" x="50" y="50" width="880" height="380" positive_color="000000" positive_alpha="100" />
+
+   <chart_type>bubble</chart_type>
+
+   <draw>
+      <rect bevel="bg" layer="background" x="0" y="0" width="970" height="500" fill_color="000000" line_thickness="0" />
+      <text x="30" y="0" width="700" height="20" color="ffffff" alpha="50" size="22" align="left" valign="top">BIEU DO PHAN VUNG BIEN DONG GIA - NGAY 23/11/2012</text>
+      <circle x="100" y="450" radius="8" fill_color="ffffff" fill_alpha="70" line_color="999999" line_alpha="60" line_thickness="2" />
+      <text x="120" y="440" width="700" height="20" color="ffffff" alpha="90" size="14" align="left" valign="top">Moi vong tron tuong trung cho 1 ma chung khoan.</text>
+      <circle x="100" y="480" radius="12" fill_color="ffffff" fill_alpha="70" line_color="999999" line_alpha="60" line_thickness="2" />
+      <text x="120" y="470" width="700" height="20" color="ffffff" alpha="90" size="14" align="left" valign="top">Kich thuoc vong tron tuy thuoc vao ti le anh huong cua Ma Chung Khoan do voi thi truong.</text>
+   </draw>
+   <filter>
+      <shadow id="high" distance="5" angle="45" color="0" alpha="50" blurX="10" blurY="10" />
+      <shadow id="bg" inner="true" quality="2" distance="25" angle="-45" color="000000" alpha="35" blurX="100" blurY="100" />
+      <!--bevel id='data' angle='0' blurX='10' blurY='20' distance='2' highlightAlpha='25' highlightColor='ffffff' shadowAlpha='35' type='outer' /-->
+   </filter>
+   <legend shadow="low" x="50" y="30" width="881" height="20" margin="5" fill_alpha="10" size="14" bullet="circle" color="00ffff" alpha="90" />
+   <tooltip color="FFFFFF" alpha="75" size="12" background_color_1="ff4400" background_alpha="85" shadow="low" />
+   <series_color>
+      <color>00CCCC</color>
+      <color>FF0000</color>
+      <color>FFFF00</color>
+      <color>00FF00</color>
+      <color>FF00CC</color>
+   </series_color>
+   <context_menu print="true" full_screen="true" save_as_jpeg="true" />
+</chart>
+

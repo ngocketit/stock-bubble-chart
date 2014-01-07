@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/root">
+        <file>bubble.png</file>
+        <file>bubble_64.png</file>
+        <file>help.html</file>
+        <file>sample.html</file>
+    </qresource>
+</RCC>

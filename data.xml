@@ -1,0 +1,405 @@
+<chart>
+<chart_data>
+<row>
+<null/>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+<string>x</string>
+<string>y</string>
+<string>z</string>
+</row>
+<row>
+<string>Giam San (1)</string>
+<number label="">13</number>
+<number>3.8</number>
+<number tooltip="ITA - 3.8(-0.1; -2.56%)
+KLNY: 445,155,209
+KLGD: 850,530 - GTGD: 3,234.46
+TLAH: 0.39 - DiemAH: -0.19">5</number>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+</row>
+<row>
+<string>Giam Gia (14)</string>
+<number label="BVH">27</number>
+<number>27.3</number>
+<number tooltip="BVH - 27.3(-0.2; -0.73%)
+KLNY: 680,471,434
+KLGD: 190,570 - GTGD: 5,236.28
+TLAH: 4.32 - DiemAH: -0.6">22.7914</number>
+<number label="">27</number>
+<number>24.2</number>
+<number tooltip="CII - 24.2(-0.2; -0.82%)
+KLNY: 112,801,500
+KLGD: 626,620 - GTGD: 15,275.58
+TLAH: 0.64 - DiemAH: -0.1">5</number>
+<number label="">29</number>
+<number>12.3</number>
+<number tooltip="DIG - 12.3(-0.1; -0.81%)
+KLNY: 129,997,818
+KLGD: 383,080 - GTGD: 4,740.35
+TLAH: 0.36 - DiemAH: -0.06">5</number>
+<number label="DPM">36</number>
+<number>34.7</number>
+<number tooltip="DPM - 34.7(-0.2; -0.57%)
+KLNY: 380,000,000
+KLGD: 146,150 - GTGD: 5,093.18
+TLAH: 3.05 - DiemAH: -0.33">16.0911</number>
+<number label="">28</number>
+<number>18.2</number>
+<number tooltip="HPG - 18.2(-0.4; -2.15%)
+KLNY: 349,211,108
+KLGD: 250,040 - GTGD: 4,726.43
+TLAH: 1.77 - DiemAH: -0.73">9.33813</number>
+<number label="">39</number>
+<number>7.9</number>
+<number tooltip="IJC - 7.9(-0.1; -1.25%)
+KLNY: 274,194,525
+KLGD: 89,820 - GTGD: 717.46
+TLAH: 0.5 - DiemAH: -0.12">5</number>
+<number label="">28</number>
+<number>39.5</number>
+<number tooltip="KDC - 39.5(-0.5; -1.25%)
+KLNY: 159,921,625
+KLGD: 52,140 - GTGD: 2,066.28
+TLAH: 1.46 - DiemAH: -0.35">7.70264</number>
+<number label="">39</number>
+<number>7.9</number>
+<number tooltip="OGC - 7.9(-0.1; -1.25%)
+KLNY: 300,000,000
+KLGD: 84,300 - GTGD: 668.79
+TLAH: 0.55 - DiemAH: -0.13">5</number>
+<number label="">33</number>
+<number>34</number>
+<number tooltip="PVD - 34(-0.1; -0.29%)
+KLNY: 210,508,215
+KLGD: 111,100 - GTGD: 3,860.36
+TLAH: 1.66 - DiemAH: -0.09">8.75779</number>
+<number label="">33</number>
+<number>6.9</number>
+<number tooltip="PVF - 6.9(-0.1; -1.43%)
+KLNY: 600,000,000
+KLGD: 88,650 - GTGD: 617.04
+TLAH: 0.96 - DiemAH: -0.26">5.06475</number>
+<number label="">25</number>
+<number>14.6</number>
+<number tooltip="REE - 14.6(-0.1; -0.68%)
+KLNY: 236,643,385
+KLGD: 130,200 - GTGD: 1,912.91
+TLAH: 0.83 - DiemAH: -0.11">5</number>
+<number label="">22</number>
+<number>14.2</number>
+<number tooltip="SSI - 14.2(-0.1; -0.7%)
+KLNY: 352,611,742
+KLGD: 339,560 - GTGD: 4,848.53
+TLAH: 1.16 - DiemAH: -0.15">6.1199</number>
+<number label="VCB">28</number>
+<number>23.3</number>
+<number tooltip="VCB - 23.3(-0.1; -0.43%)
+KLNY: 2,317,417,076
+KLGD: 422,030 - GTGD: 10,066.68
+TLAH: 12.56 - DiemAH: -1.03">66.2638</number>
+<number label="VIC">31</number>
+<number>73.5</number>
+<number tooltip="VIC - 73.5(-0.5; -0.68%)
+KLNY: 700,462,055
+KLGD: 51,470 - GTGD: 3,776.94
+TLAH: 11.98 - DiemAH: -1.55">63.2038</number>
+</row>
+<row>
+<string>Dung Gia (8)</string>
+<number label="CTG">48</number>
+<number>18.4</number>
+<number tooltip="CTG - 18.4(0; 0%)
+KLNY: 516,311,593
+KLGD: 146,080 - GTGD: 2,687.88
+TLAH: 11.22 - DiemAH: 0">59.1942</number>
+<number label="">58</number>
+<number>19.8</number>
+<number tooltip="HAG - 19.8(0; 0%)
+KLNY: 537,371,049
+KLGD: 737,790 - GTGD: 14,573.61
+TLAH: 2.48 - DiemAH: 0">13.0839</number>
+<number label="">51</number>
+<number>21.5</number>
+<number tooltip="HVG - 21.5(0; 0%)
+KLNY: 79,197,669
+KLGD: 20,700 - GTGD: 447.11
+TLAH: 0.4 - DiemAH: 0">5</number>
+<number label="">53</number>
+<number>6.6</number>
+<number tooltip="QCG - 6.6(0; 0%)
+KLNY: 127,076,862
+KLGD: 11,030 - GTGD: 72.79
+TLAH: 0.2 - DiemAH: 0">5</number>
+<number label="">59</number>
+<number>13.5</number>
+<number tooltip="SBT - 13.5(0; 0%)
+KLNY: 141,905,800
+KLGD: 66,990 - GTGD: 912.15
+TLAH: 0.4 - DiemAH: 0">5</number>
+<number label="STB">48</number>
+<number>18.4</number>
+<number tooltip="STB - 18.4(0; 0%)
+KLNY: 1,073,967,664
+KLGD: 358,040 - GTGD: 6,581.09
+TLAH: 4.17 - DiemAH: 0">22</number>
+<number label="VNM">53</number>
+<number>129</number>
+<number tooltip="VNM - 129(0; 0%)
+KLNY: 556,114,754
+KLGD: 48,300 - GTGD: 6,231.20
+TLAH: 16.68 - DiemAH: 0">88</number>
+<number label="">59</number>
+<number>10.8</number>
+<number tooltip="VSH - 10.8(0; 0%)
+KLNY: 206,241,246
+KLGD: 127,510 - GTGD: 1,373.49
+TLAH: 0.51 - DiemAH: 0">5</number>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+</row>
+<row>
+<string>Tang Gia (5)</string>
+<number label="EIB">63</number>
+<number>14.3</number>
+<number tooltip="EIB - 14.3(0.2; 1.42%)
+KLNY: 1,235,522,904
+KLGD: 207,680 - GTGD: 2,954.91
+TLAH: 4.11 - DiemAH: 1.12">21.6835</number>
+<number label="">63</number>
+<number>32.7</number>
+<number tooltip="FPT - 32.7(0.1; 0.31%)
+KLNY: 273,848,833
+KLGD: 44,430 - GTGD: 1,450.90
+TLAH: 2.08 - DiemAH: 0.12">10.9736</number>
+<number label="">73</number>
+<number>9.9</number>
+<number tooltip="KDH - 9.9(0.1; 1.02%)
+KLNY: 43,900,000
+KLGD: 43,670 - GTGD: 429.07
+TLAH: 0.1 - DiemAH: 0.02">5</number>
+<number label="MSN">69</number>
+<number>88</number>
+<number tooltip="MSN - 88(0.5; 0.57%)
+KLNY: 687,280,123
+KLGD: 5,690 - GTGD: 500.09
+TLAH: 14.07 - DiemAH: 1.54">74.2302</number>
+<number label="">76</number>
+<number>31.9</number>
+<number tooltip="PNJ - 31.9(0.3; 0.95%)
+KLNY: 71,997,835
+KLGD: 19,890 - GTGD: 628.88
+TLAH: 0.53 - DiemAH: 0.1">5</number>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+</row>
+<row>
+<string>Tang Tran (2)</string>
+<number label="">98</number>
+<number>17</number>
+<number tooltip="GMD - 17(0.8; 4.94%)
+KLNY: 109,007,090
+KLGD: 145,930 - GTGD: 2,355.02
+TLAH: 0.41 - DiemAH: 0.39">5</number>
+<number label="">91</number>
+<number>19.1</number>
+<number tooltip="SJS - 19.1(0.9; 4.95%)
+KLNY: 100,000,000
+KLGD: 52,620 - GTGD: 997.25
+TLAH: 0.44 - DiemAH: 0.42">5</number>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+<null/>
+</row>
+</chart_data>
+<axis_category shadow="low" prefix="" min="0" max="100" steps="5" decimals="0" size="13" color="ff0000" alpha="0" orientation="circular"/>
+<axis_ticks value_ticks="false" category_ticks="false"/>
+<axis_value shadow="low" show_min="false" min="0" max="171" steps="21" size="13" color="ffffff" alpha="75" prefix="" suffix="K"/>
+<chart_border color="ffffff" bottom_thickness="1" left_thickness="1" top_thickness="0" right_thickness="1"/>
+<chart_grid_h alpha="2" color="ffffff" thickness="1" type="solid"/>
+<chart_grid_v alpha="2" color="ffffff" thickness="1" type="solid"/>
+<chart_label shadow="low" alpha="100" size="10" position="center" color="FFFFFF"/>
+<legend shadow="low" x="40" y="45" width="880" height="20" margin="5" fill_alpha="10" size="14" bullet="circle" color="ffffff" alpha="90"/>
+<chart_rect glow="glow1" bevel="bevel2" x="40" y="95" width="880" height="360" positive_color="000000" positive_alpha="100"/>
+<chart_type>bubble</chart_type>
+<chart_guide vertical="false" horizontal="true" thickness="1" color="ffffff" alpha="60" type="dashed" snap_h="true" snap_v="true" connect="true" radius="5" fill_alpha="75" fill_color="ffffff" line_thickness="0" text_h_alpha="90" text_v_alpha="90" text_color="0" background_color="62A9FF" size="12"/>
+<draw>
+<rect bevel="bg" layer="background" x="0" y="0" width="1000" height="500" fill_color="000000" line_thickness="0"/>
+<text x="40" y="5" width="880" height="20" color="ffffff" alpha="50" size="22" align="left" valign="top">Bieu do phan vung gia ca</text>
+<text x="40" y="465" width="440" height="20" color="ffffff" alpha="50" size="14" align="left" valign="top">VN30-INDEX: 345.23 (-2.12, 0.61%)</text>
+<text x="810" y="465" width="440" height="20" color="ffffff" alpha="50" size="14" align="right" valign="top">Source: KLSTAT</text>
+<text x="40" y="75" width="176" height="20" color="00cccc" alpha="90" size="12" align="left" valign="top">TTVH: 0.39%, -0.19 points</text>
+<text x="216" y="75" width="176" height="20" color="ff0000" alpha="90" size="12" align="left" valign="top">TTVH: 41.80%, -5.61 points</text>
+<text x="392" y="75" width="176" height="20" color="ffff00" alpha="90" size="12" align="left" valign="top">TTVH: 36.06%, 0.00 points</text>
+<text x="568" y="75" width="176" height="20" color="00ff00" alpha="90" size="12" align="left" valign="top">TTVH: 20.89%, 2.90 points</text>
+<text x="744" y="75" width="176" height="20" color="ff00cc" alpha="90" size="12" align="left" valign="top">TTVH: 0.85%, 0.81 points</text>
+</draw>
+<series_color>
+<color>
+00cccc
+</color>
+<color>
+ff0000
+</color>
+<color>
+ffff00
+</color>
+<color>
+00ff00
+</color>
+<color>
+ff00cc
+</color>
+</series_color>
+<tooltip color="FFFFFF" alpha="75" size="12" background_color_1="ff4400" background_alpha="85" shadow="low"/>
+<context_menu print="true" full_screen="true" save_as_jpeg="true"/>
+</chart>
